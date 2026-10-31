@@ -149,7 +149,8 @@ def wakatime():
         output += text(32, footer, f"Total registrado: {lifetime}", 18, "#e6bd78")
         description += f"Total registrado: {lifetime}. "
     start, end = data.get("start", "")[:10], data.get("end", "")[:10]
-    output += text(32, footer+32, f"Período: {start} a {end} · WakaTime", 15, "#a8aaa2")
+    period = f"{start} a {end}" if start and end else range_label
+    output += text(32, footer+32, f"Período: {period} · WakaTime", 15, "#a8aaa2")
     svg("wakatime.svg", footer+86, "~ $ wakatime --" + public_range.replace("_", "-"), output, description + "; ".join(f"{n}: {p}" for n, _, p in rows))
     readme = ROOT / "README.md"
     content = readme.read_text(encoding="utf-8")
