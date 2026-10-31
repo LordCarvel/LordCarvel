@@ -88,6 +88,17 @@ Meu próximo passo técnico é continuar aprofundando **Java, banco de dados e t
 <sub>Dados atualizados diariamente. Contribuições e commits cobrem os últimos 12 meses; linguagens representam o tamanho do código nos repositórios públicos, incluindo os arquivados, e não o tempo de programação.</sub>
 
 <!-- WAKATIME:START -->
+
+## Tempo de programação
+
+<p align="center">
+  <a href="https://wakatime.com/@639f7836-87c5-41ed-8dd2-0f0090178640">
+    <img src="./assets/wakatime.svg" width="960" alt="WakaTime: tempo de programação, média diária e linguagens no período público selecionado." />
+  </a>
+</p>
+
+<sub>Tempo registrado pelo WakaTime nos editores conectados. A distribuição de linguagens considera o período indicado no painel.</sub>
+
 <!-- WAKATIME:END -->
 
 ## Para conhecer meu trabalho

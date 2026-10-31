@@ -118,31 +118,39 @@ def github():
 
 def wakatime():
     url = f"https://wakatime.com/api/v1/users/{WAKA}"
-    data = request(url + "/stats/last_7_days")["data"]
+    try:
+        data = request(url + "/stats")["data"]
+    except urllib.error.HTTPError as error:
+        if error.code not in (401, 403, 404):
+            raise
+        print("WakaTime: public stats unavailable; preserving existing panel.")
+        return
     if not data.get("is_coding_activity_visible") or not data.get("human_readable_total"):
         print("WakaTime: coding activity is not public; preserving existing panel.")
         return
     total = data["human_readable_total"]
     average = data.get("human_readable_daily_average", "—")
-    output = text(32, 98, total, 34) + text(32, 127, "tempo nos últimos 7 dias", 17, "#a8aaa2")
+    public_range = data.get("range", "public")
+    range_label = "histórico completo" if public_range == "all_time" else "período público selecionado"
+    output = text(32, 98, total, 34) + text(32, 127, range_label, 17, "#a8aaa2")
     output += text(520, 98, average, 34) + text(520, 127, "média diária no período", 17, "#a8aaa2")
     languages = data.get("languages", [])[:5]
     rows = [(item["name"], item["percent"], f'{item["percent"]:.1f}%') for item in languages]
     output += bars(rows, y=187)
     footer = 187 + len(rows)*43
-    description = f"Últimos 7 dias: {total}; média diária: {average}. "
+    description = f"Tempo no período público ({public_range}): {total}; média diária: {average}. "
     try:
         lifetime = request(url + "/all_time_since_today")["data"].get("text")
     except urllib.error.HTTPError as error:
         if error.code not in (401, 403, 404):
             raise
         lifetime = None
-    if lifetime:
+    if lifetime and public_range != "all_time":
         output += text(32, footer, f"Total registrado: {lifetime}", 18, "#e6bd78")
         description += f"Total registrado: {lifetime}. "
     start, end = data.get("start", "")[:10], data.get("end", "")[:10]
     output += text(32, footer+32, f"Período: {start} a {end} · WakaTime", 15, "#a8aaa2")
-    svg("wakatime.svg", footer+86, "~ $ wakatime --last-7-days", output, description + "; ".join(f"{n}: {p}" for n, _, p in rows))
+    svg("wakatime.svg", footer+86, "~ $ wakatime --" + public_range.replace("_", "-"), output, description + "; ".join(f"{n}: {p}" for n, _, p in rows))
     readme = ROOT / "README.md"
     content = readme.read_text(encoding="utf-8")
     section = '''<!-- WAKATIME:START -->
@@ -151,7 +159,7 @@ def wakatime():
 
 <p align="center">
   <a href="https://wakatime.com/@639f7836-87c5-41ed-8dd2-0f0090178640">
-    <img src="./assets/wakatime.svg" width="960" alt="WakaTime: tempo de programação, média diária e linguagens nos últimos sete dias." />
+    <img src="./assets/wakatime.svg" width="960" alt="WakaTime: tempo de programação, média diária e linguagens no período público selecionado." />
   </a>
 </p>
 
