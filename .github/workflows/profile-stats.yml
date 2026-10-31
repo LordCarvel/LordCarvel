@@ -1,0 +1,33 @@
+name: Atualizar estatísticas do perfil
+
+on:
+  schedule:
+    - cron: '23 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Gerar painéis com dados públicos
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/update_stats.py
+      - name: Publicar atualização
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/github-stats.svg assets/languages.svg README.md
+          if [ -f assets/wakatime.svg ]; then git add assets/wakatime.svg; fi
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Atualiza estatísticas do perfil"
+          git push
