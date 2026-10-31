@@ -1,108 +1,59 @@
-<p align="center">
-  <img src="./assets/termux.svg" width="960" alt="Carvel — desenvolvimento backend. Perfil aberto no Neovim, com números de linha e barra de status." />
-</p>
+<!-- Gerado a partir dos dados públicos. Textos e layout: scripts/render_profile.py. -->
 
-# Olá, sou o Carvel
+<p align="center"><img src="./assets/termux.svg" width="960" alt="Carvel, desenvolvimento backend com Java. Cabeçalho com estatísticas atuais do GitHub e WakaTime." /></p>
 
-Tenho foco em **desenvolvimento backend com Java** e gosto de entender como as coisas funcionam por trás de uma aplicação: como os dados são organizados, como uma consulta é construída e como uma regra de negócio vira código.
+<p align="center"><a href="https://github.com/LordCarvel?tab=repositories">Repositórios</a> &nbsp; / &nbsp; <a href="https://github.com/LordCarvel/Cdatra">Java e persistência</a> &nbsp; / &nbsp; <a href="https://wakatime.com/@639f7836-87c5-41ed-8dd2-0f0090178640">WakaTime</a></p>
 
-Parte dos meus projetos nasceu de necessidades do meu trabalho. Já desenvolvi ferramentas para formatar pedidos, imprimir comandas, organizar entregas e facilitar o fechamento de caixa. É o tipo de problema que me interessa resolver: algo que faz diferença na rotina de quem usa.
+<p align="center"><img src="./assets/about.svg" width="960" alt="Sobre Carvel: foco em backend Java, persistência e aplicações para pedidos, entregas e caixa." /></p>
 
-Também uso **JavaScript, React e Node.js** nos meus projetos. No Java, estou aprofundando meus conhecimentos em persistência, JDBC, SQL e testes, principalmente através do **Cdatra**, uma biblioteca que estou construindo para estudar o mapeamento entre objetos e banco de dados.
+<p align="center"><img src="./assets/stack.svg" width="960" alt="Tecnologias: Java 17, Node.js, JDBC, SQL, H2, SQLite, React, Electron, JUnit, Maven, JaCoCo, Git e Neovim." /></p>
 
-<p>
-  <a href="https://github.com/LordCarvel/Cdatra">Projeto em Java</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/LordCarvel?tab=repositories">Todos os projetos</a>
-  &nbsp; · &nbsp;
-  <a href="https://wakatime.com/@639f7836-87c5-41ed-8dd2-0f0090178640">WakaTime</a>
-</p>
+<p align="center"><a href="https://github.com/LordCarvel/Cdatra"><img src="./assets/project-Cdatra.svg" width="960" alt="Persistência em Java: Uma classe anotada. Menos JDBC repetitivo. Abrir repositório." /></a></p>
 
-## Tecnologias e conhecimentos
+<p align="center"><a href="https://github.com/LordCarvel/EasyPrintV2"><img src="./assets/project-EasyPrintV2.svg" width="960" alt="Easy Hub: Pedidos, comandas e uma operação mais organizada. Abrir repositório." /></a></p>
 
-| Área | O que venho usando nos projetos |
-| :--- | :--- |
-| **Backend** | Java 17, Node.js e implementação de regras de negócio |
-| **Persistência** | JDBC, SQL, H2, SQLite e armazenamento local no navegador |
-| **Fundamentos Java** | Orientação a objetos, generics, reflexão e anotações |
-| **Web e desktop** | JavaScript, React, HTML, CSS, Vite e Electron |
-| **Qualidade** | Testes com JUnit, Maven e análise de cobertura com JaCoCo |
-| **Ferramentas** | Git, GitHub, GitHub Actions e Neovim |
+<p align="center"><a href="https://github.com/LordCarvel/Delivery-Board-V2"><img src="./assets/project-Delivery-Board-V2.svg" width="960" alt="Delivery Board: Organização de entregadores e pedidos por rodada. Abrir repositório." /></a></p>
 
-## Projetos em destaque
+<p align="center"><a href="https://github.com/LordCarvel/Finally-Storage"><img src="./assets/project-Finally-Storage.svg" width="960" alt="Finally Storage: Conferência de valores e fechamento diário de caixa. Abrir repositório." /></a></p>
 
-### [Cdatra · persistência em Java](https://github.com/LordCarvel/Cdatra)
+<p align="center"><img src="./assets/github-stats.svg" width="960" alt="Atividade GitHub: contribuições, commits, dias ativos, evolução mensal e calendário dos últimos 12 meses." /></p>
 
-Uma biblioteca de aprendizado para reduzir o código repetitivo de acesso a dados com JDBC. A proposta é partir de uma classe anotada e usá-la para criar tabelas, salvar, consultar, atualizar e excluir registros.
-
-- Mapeamento de entidades com **anotações e reflexão**.
-- API com `Repository<T>`, filtros e operadores de consulta.
-- Validação de metadados, tipos e operações de persistência.
-- Testes de integração com **JUnit e H2**, incluindo CRUD, filtros e transações.
-
-É o projeto que melhor representa meu interesse atual em backend. A documentação explica a API, como executar os testes e os limites da versão, com exemplos reproduzíveis.
-
-**Java 17 · JDBC · SQL · H2 · Maven · JUnit · JaCoCo**
-
-### [EasyPrintV2 / Easy Hub · pedidos e impressão](https://github.com/LordCarvel/EasyPrintV2)
-
-Aplicação para trabalhar com pedidos e comandas térmicas em uma operação de alimentação. Reúne configuração de modelos, preparação dos dados para impressão e recursos voltados à rotina de atendimento.
-
-- Interface em **React**, com navegação e configurações de impressão.
-- Tratamento de texto de pedidos e personalização de comandas.
-- Servidor em **Node.js**, com compartilhamento de pedidos entre computadores.
-- Versão desktop com **Electron** e distribuição para Windows.
-
-Esse projeto me permite trabalhar na integração entre interface, dados, impressão e entrega da aplicação.
-
-**JavaScript · React · Node.js · SQLite · Vite · Electron**
-
-### [Delivery-Board-V2 · organização de entregas](https://github.com/LordCarvel/Delivery-Board-V2)
-
-Ferramenta para organizar entregadores e pedidos, agrupar entregas por rodada e editar informações da operação. A segunda versão continua o trabalho do Delivery-Board, com interface web e dados armazenados no navegador.
-
-**JavaScript · React · Vite · localStorage**
-
-### [Finally-Storage · fechamento de caixa](https://github.com/LordCarvel/Finally-Storage)
-
-Aplicação para registrar os totais dos entregadores, separar valores por forma de pagamento e calcular o fechamento diário. Mantém os dados no navegador e concentra informações que precisam ser conferidas no fim do expediente.
-
-**JavaScript · HTML · CSS · localStorage**
-
-## Como trabalho nos projetos
-
-Procuro começar pelo problema e entender o fluxo de quem vai usar a ferramenta. Nos projetos de operação, isso aparece no cuidado com pedidos, impressão e conferência de valores. No Cdatra, o foco é outro: estudar a implementação, testar os comportamentos e documentar o que a biblioteca faz.
-
-Meu próximo passo técnico é continuar aprofundando **Java, banco de dados e testes de backend**, construindo uma base que eu consiga explicar e aplicar em projetos maiores.
-
-## Atividade no GitHub
-
-<p align="center">
-  <img src="./assets/github-stats.svg" width="960" alt="Estatísticas do GitHub: repositórios públicos, contribuições, commits e dias com atividade nos últimos 12 meses, com calendário de contribuições." />
-</p>
-
-<p align="center">
-  <img src="./assets/languages.svg" width="960" alt="Distribuição das linguagens nos meus repositórios públicos, calculada pelo tamanho do código identificado pelo GitHub." />
-</p>
-
-<sub>Dados atualizados diariamente. Contribuições e commits cobrem os últimos 12 meses; linguagens representam o tamanho do código nos repositórios públicos, incluindo os arquivados, e não o tempo de programação.</sub>
+<p align="center"><img src="./assets/languages.svg" width="960" alt="Distribuição atual das linguagens pelo tamanho de código nos repositórios públicos." /></p>
 
 <!-- WAKATIME:START -->
 
-## Tempo de programação
-
-<p align="center">
-  <a href="https://wakatime.com/@639f7836-87c5-41ed-8dd2-0f0090178640">
-    <img src="./assets/wakatime.svg" width="960" alt="WakaTime: tempo de programação, média diária e linguagens no período público selecionado." />
-  </a>
-</p>
-
-<sub>Tempo registrado pelo WakaTime nos editores conectados. A distribuição de linguagens considera o período indicado no painel.</sub>
+<p align="center"><a href="https://wakatime.com/@639f7836-87c5-41ed-8dd2-0f0090178640"><img src="./assets/wakatime.svg" width="960" alt="Tempo de programação, tempo em Java e linguagens no período público do WakaTime." /></a></p>
 
 <!-- WAKATIME:END -->
 
-## Para conhecer meu trabalho
+<details>
+<summary>Sobre mim e os projetos · versão em texto</summary>
 
-Se você está avaliando meu perfil para uma oportunidade em desenvolvimento, recomendo começar pelo [Cdatra](https://github.com/LordCarvel/Cdatra): a documentação, os exemplos e os testes mostram como estou trabalhando com Java. Para ver uma aplicação com interface, servidor e distribuição desktop, veja o [EasyPrintV2](https://github.com/LordCarvel/EasyPrintV2).
+## Carvel — desenvolvimento backend
 
-Você encontra o restante do meu código na [lista de repositórios](https://github.com/LordCarvel?tab=repositories).
+Tenho foco em backend com Java e gosto de entender o caminho entre uma regra de negócio e o dado salvo. Parte dos meus projetos nasceu de necessidades do trabalho: pedidos, comandas, entregas e fechamento de caixa.
+
+No Cdatra, estudo persistência por dentro: JDBC, reflexão, SQL e testes. Também uso React, JavaScript e Node.js nos projetos web, além de Electron para desktop. Estou aprofundando Java, banco de dados e testes de backend.
+
+### Tecnologias
+
+- **Backend e dados:** Java 17, Node.js, JDBC, SQL, H2 e SQLite.
+- **Fundamentos:** orientação a objetos, generics, reflexão e anotações.
+- **Web e desktop:** React, JavaScript, HTML, CSS, Vite e Electron.
+- **Qualidade e ferramentas:** JUnit, Maven, JaCoCo, Git, GitHub Actions e Neovim.
+
+### Por onde começar a avaliar meu trabalho
+
+O [Cdatra](https://github.com/LordCarvel/Cdatra) reúne uma API de persistência Java com `Repository<T>`, mapeamento por anotações, filtros, testes de integração e documentação dos limites da biblioteca. É o projeto mais ligado ao meu foco em backend.
+
+O [EasyPrintV2 / Easy Hub](https://github.com/LordCarvel/EasyPrintV2) combina interface React, servidor Node.js, impressão de comandas e versão desktop Electron para Windows.
+
+O [Delivery Board](https://github.com/LordCarvel/Delivery-Board-V2) organiza entregadores, pedidos e rodadas de entrega, com dados no navegador.
+
+O [Finally Storage](https://github.com/LordCarvel/Finally-Storage) facilita a conferência de totais dos entregadores, valores por forma de pagamento e fechamento diário.
+
+Procuro começar pelo problema e entender o fluxo de quem vai usar a ferramenta. Nos projetos de operação, isso aparece no cuidado com pedidos, impressão e conferência de valores. No Cdatra, o foco é estudar a implementação, testar comportamentos e documentar o que a biblioteca faz.
+
+</details>
+
+<p align="center"><sub>Atualização a cada 6 horas via GitHub Actions. GitHub: últimos 12 meses; mês atual parcial. Linguagens do GitHub: bytes de código público, incluindo arquivados e excluindo forks. WakaTime: tempo registrado no período público selecionado.</sub></p>

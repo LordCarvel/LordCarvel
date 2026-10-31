@@ -1,37 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="450" viewBox="0 0 960 450" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Carvel — desenvolvimento backend</title>
-  <desc id="desc">Perfil de Carvel no Neovim: desenvolvimento backend, Java, dados e aplicações web, com números de linha e barra de status.</desc>
-  <rect x="1" y="1" width="958" height="448" rx="14" fill="#0c0c0c" stroke="#353832" stroke-width="2"/>
-  <g font-family="'Cascadia Code','DejaVu Sans Mono',Consolas,monospace">
-    <text x="40" y="43" fill="#a8aaa2" font-size="16">carvel@dev:~</text>
-    <text x="920" y="43" text-anchor="end" fill="#a8aaa2" font-size="16">~/perfil</text>
-    <path d="M32 65H928" stroke="#30332c"/>
-    <text x="40" y="109" font-size="22"><tspan fill="#a7e084">~ $ </tspan><tspan fill="#f1f1ed">nvim perfil.md</tspan></text>
-    <path d="M73 131V320" stroke="#30332c"/>
-    <g fill="#81867a" font-size="17" text-anchor="end">
-      <text x="57" y="199" fill="#a7e084">1</text>
-      <text x="57" y="249">2</text>
-      <text x="57" y="293">3</text>
-      <text x="57" y="320">~</text>
-    </g>
-    <text x="96" y="202" fill="#f1f1ed" font-size="84" font-weight="700" letter-spacing="-4">CARVEL</text>
-    <rect x="360" y="142" width="44" height="69" fill="#a7e084"/>
-    <text x="96" y="249" fill="#e6bd78" font-size="28">Desenvolvimento backend</text>
-    <text x="96" y="293" fill="#bcbeb6" font-size="21">Java, dados e aplicações para o dia a dia.</text>
-    <path d="M1 335H959V374H1Z" fill="#23271f"/>
-    <path d="M1 335H144V374H1Z" fill="#a7e084"/>
-    <text x="72" y="360" text-anchor="middle" fill="#0c0c0c" font-size="17" font-weight="700">NORMAL</text>
-    <text x="167" y="360" fill="#f1f1ed" font-size="17">perfil.md</text>
-    <text x="920" y="360" text-anchor="end" fill="#bcbeb6" font-size="17">utf-8   markdown   1:7</text>
-    <path d="M1 386H959" stroke="#30332c"/>
-    <g fill="#d7d9d1" font-size="18" text-anchor="middle">
-      <text x="80" y="424">ESC</text>
-      <text x="213" y="424">/</text>
-      <text x="346" y="424">−</text>
-      <text x="480" y="424">HOME</text>
-      <text x="613" y="424">↑</text>
-      <text x="746" y="424">END</text>
-      <text x="880" y="424">PGUP</text>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="418" viewBox="0 0 960 418" role="img" aria-labelledby="title desc">
+<title id="title">perfil.md</title><desc id="desc">Carvel, desenvolvimento backend com Java. 230 contribuições em 12 meses.</desc>
+<style>
+text{font-family:'Cascadia Code','DejaVu Sans Mono',Consolas,monospace}
+.cursor{animation:blink 1.25s steps(1) infinite}
+@keyframes blink{0%,55%{opacity:1}56%,100%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.cursor{animation:none}}
+</style>
+<rect x="1" y="1" width="958" height="416" rx="12" fill="#101610" stroke="#354333"/>
+<rect x="2" y="2" width="956" height="49" rx="11" fill="#1b251b" />
+<rect x="2" y="38" width="956" height="13" rx="0" fill="#1b251b" />
+<rect x="2" y="2" width="5" height="49" rx="0" fill="#a7d88b" />
+<text x="29" y="34" font-size="20" fill="#a7d88b" >▸ perfil.md</text>
+<text x="930" y="34" font-size="16" fill="#9caa99" text-anchor="end">carvel / workspace</text>
+<text x="36" y="94" font-size="22" fill="#a7d88b" >~ $ nvim perfil.md</text><text x="33" y="160" font-size="18" fill="#9caa99" >1</text><text x="78" y="170" font-size="78" fill="#e7e6df" font-weight="700" letter-spacing="-3">CARVEL</text><rect x="330" y="109" width="40" height="68" rx="0" fill="#a7d88b" class="cursor"/><text x="33" y="211" font-size="18" fill="#9caa99" >2</text><text x="78" y="214" font-size="31" fill="#e6bc80" >Desenvolvimento backend</text><text x="33" y="255" font-size="18" fill="#9caa99" >3</text><text x="78" y="257" font-size="22" fill="#9caa99" >Java, dados e aplicações para o dia a dia.</text><rect x="32" y="283" width="896" height="1" rx="0" fill="#354333" /><text x="36" y="321" font-size="21" fill="#a7d88b" >15 repositórios públicos</text><text x="36" y="353" font-size="21" fill="#9caa99" >230 contribuições / 12 meses</text><text x="520" y="321" font-size="21" fill="#e6bc80" >238h 02min registrados</text><text x="520" y="353" font-size="19" fill="#9caa99" >WakaTime / histórico completo</text>
+<rect x="2" y="379" width="956" height="37" rx="0" fill="#1b251b" />
+<rect x="2" y="379" width="126" height="37" rx="0" fill="#a7d88b" />
+<text x="64" y="404" font-size="16" fill="#101610" text-anchor="middle" font-weight="700">NORMAL</text>
+<text x="149" y="404" font-size="16" fill="#9caa99" >dados públicos / 31/10/2026 13:09 -03</text>
+<text x="931" y="404" font-size="16" fill="#9caa99" text-anchor="end">utf-8</text>
 </svg>

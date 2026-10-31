@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="444" viewBox="0 0 960 444" role="img" aria-labelledby="title desc">
+<title id="title">stack.toml</title><desc id="desc">Java, Node.js, JDBC, SQL, H2, SQLite, React, Electron, JUnit, Maven, JaCoCo, Git e Neovim.</desc>
+<style>
+text{font-family:'Cascadia Code','DejaVu Sans Mono',Consolas,monospace}
+.cursor{animation:blink 1.25s steps(1) infinite}
+@keyframes blink{0%,55%{opacity:1}56%,100%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.cursor{animation:none}}
+</style>
+<rect x="1" y="1" width="958" height="442" rx="12" fill="#101610" stroke="#354333"/>
+<rect x="2" y="2" width="956" height="49" rx="11" fill="#1b251b" />
+<rect x="2" y="38" width="956" height="13" rx="0" fill="#1b251b" />
+<rect x="2" y="2" width="5" height="49" rx="0" fill="#a7d88b" />
+<text x="29" y="34" font-size="20" fill="#a7d88b" >▸ stack.toml</text>
+<text x="930" y="34" font-size="16" fill="#9caa99" text-anchor="end">carvel / workspace</text>
+<text x="32" y="99" font-size="24" fill="#a7d88b" >[backend]</text><text x="32" y="136" font-size="19" fill="#9caa99" >linguagens</text><text x="187" y="136" font-size="18" fill="#e6bc80" >&quot;Java 17, Node.js&quot;</text><text x="32" y="175" font-size="19" fill="#9caa99" >dados</text><text x="187" y="175" font-size="18" fill="#e6bc80" >&quot;JDBC, SQL, H2, SQLite&quot;</text><text x="32" y="214" font-size="19" fill="#9caa99" >fundamentos</text><text x="187" y="214" font-size="18" fill="#e6bc80" >&quot;OOP, generics, reflexão&quot;</text><text x="510" y="99" font-size="24" fill="#a7d88b" >[web.desktop]</text><text x="510" y="136" font-size="19" fill="#9caa99" >interface</text><text x="665" y="136" font-size="18" fill="#e6bc80" >&quot;React, JavaScript&quot;</text><text x="510" y="175" font-size="19" fill="#9caa99" >plataforma</text><text x="665" y="175" font-size="18" fill="#e6bc80" >&quot;Electron, Vite&quot;</text><text x="510" y="214" font-size="19" fill="#9caa99" >base</text><text x="665" y="214" font-size="18" fill="#e6bc80" >&quot;HTML, CSS&quot;</text><text x="32" y="285" font-size="24" fill="#a7d88b" >[qualidade]</text><text x="32" y="322" font-size="19" fill="#9caa99" >testes</text><text x="187" y="322" font-size="18" fill="#e6bc80" >&quot;JUnit, H2&quot;</text><text x="32" y="361" font-size="19" fill="#9caa99" >build</text><text x="187" y="361" font-size="18" fill="#e6bc80" >&quot;Maven, JaCoCo&quot;</text><text x="510" y="285" font-size="24" fill="#a7d88b" >[ferramentas]</text><text x="510" y="322" font-size="19" fill="#9caa99" >versão</text><text x="665" y="322" font-size="18" fill="#e6bc80" >&quot;Git, GitHub&quot;</text><text x="510" y="361" font-size="19" fill="#9caa99" >rotina</text><text x="665" y="361" font-size="18" fill="#e6bc80" >&quot;Actions, Neovim&quot;</text>
+<rect x="2" y="405" width="956" height="37" rx="0" fill="#1b251b" />
+<rect x="2" y="405" width="126" height="37" rx="0" fill="#a7d88b" />
+<text x="64" y="430" font-size="16" fill="#101610" text-anchor="middle" font-weight="700">NORMAL</text>
+<text x="149" y="430" font-size="16" fill="#9caa99" >tecnologias usadas nos projetos</text>
+<text x="931" y="430" font-size="16" fill="#9caa99" text-anchor="end">utf-8</text>
+</svg>

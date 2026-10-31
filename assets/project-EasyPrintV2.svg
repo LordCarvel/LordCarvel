@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="406" viewBox="0 0 960 406" role="img" aria-labelledby="title desc">
+<title id="title">projetos/EasyPrintV2</title><desc id="desc">Easy Hub. Pedidos, comandas e uma operação mais organizada. Configuração de modelos e impressão de comandas térmicas. Interface React e servidor Node.js para compartilhar pedidos. Aplicação desktop em Electron, distribuída para Windows.</desc>
+<style>
+text{font-family:'Cascadia Code','DejaVu Sans Mono',Consolas,monospace}
+.cursor{animation:blink 1.25s steps(1) infinite}
+@keyframes blink{0%,55%{opacity:1}56%,100%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.cursor{animation:none}}
+</style>
+<rect x="1" y="1" width="958" height="404" rx="12" fill="#101610" stroke="#354333"/>
+<rect x="2" y="2" width="956" height="49" rx="11" fill="#1b251b" />
+<rect x="2" y="38" width="956" height="13" rx="0" fill="#1b251b" />
+<rect x="2" y="2" width="5" height="49" rx="0" fill="#e6bc80" />
+<text x="29" y="34" font-size="20" fill="#e6bc80" >▸ projetos/EasyPrintV2</text>
+<text x="930" y="34" font-size="16" fill="#9caa99" text-anchor="end">carvel / workspace</text>
+<text x="32" y="104" font-size="34" fill="#e7e6df" font-weight="700">Easy Hub</text><text x="32" y="146" font-size="23" fill="#e6bc80" >Pedidos, comandas e uma operação mais organizada.</text><text x="32" y="191" font-size="22" fill="#9caa99" >│ Configuração de modelos e impressão de comandas térmicas.</text><text x="32" y="225" font-size="22" fill="#9caa99" >│ Interface React e servidor Node.js para compartilhar pedidos.</text><text x="32" y="259" font-size="22" fill="#9caa99" >│ Aplicação desktop em Electron, distribuída para Windows.</text><text x="32" y="303" font-size="20" fill="#a7d88b" >React / Node.js / SQLite / Electron</text><text x="32" y="348" font-size="19" fill="#9caa99" >38 commits no repo   /   push: 2026-08-06</text>
+<rect x="2" y="367" width="956" height="37" rx="0" fill="#1b251b" />
+<rect x="2" y="367" width="126" height="37" rx="0" fill="#e6bc80" />
+<text x="64" y="392" font-size="16" fill="#101610" text-anchor="middle" font-weight="700">NORMAL</text>
+<text x="149" y="392" font-size="16" fill="#9caa99" >main / abrir repositório</text>
+<text x="931" y="392" font-size="16" fill="#9caa99" text-anchor="end">utf-8</text>
+</svg>

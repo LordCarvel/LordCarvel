@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="453" viewBox="0 0 960 453" role="img" aria-labelledby="title desc">
+<title id="title">sobre.md</title><desc id="desc"># Olá, sou o Carvel Tenho foco em backend com Java e gosto de entender o caminho entre uma regra de negócio e o dado salvo.  Parte do meu código nasceu de necessidades do trabalho: pedidos, comandas, entregas e fechamento de caixa.  No Cdatra, estudo persistência por dentro: JDBC, reflexão, SQL e testes. Na web, uso React e Node.js.</desc>
+<style>
+text{font-family:'Cascadia Code','DejaVu Sans Mono',Consolas,monospace}
+.cursor{animation:blink 1.25s steps(1) infinite}
+@keyframes blink{0%,55%{opacity:1}56%,100%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.cursor{animation:none}}
+</style>
+<rect x="1" y="1" width="958" height="451" rx="12" fill="#101610" stroke="#354333"/>
+<rect x="2" y="2" width="956" height="49" rx="11" fill="#1b251b" />
+<rect x="2" y="38" width="956" height="13" rx="0" fill="#1b251b" />
+<rect x="2" y="2" width="5" height="49" rx="0" fill="#a7d88b" />
+<text x="29" y="34" font-size="20" fill="#a7d88b" >▸ sobre.md</text>
+<text x="930" y="34" font-size="16" fill="#9caa99" text-anchor="end">carvel / workspace</text>
+<text x="46" y="99" font-size="17" fill="#9caa99" text-anchor="end">1</text><text x="76" y="99" font-size="24" fill="#a7d88b" ># Olá, sou o Carvel</text><text x="46" y="134" font-size="17" fill="#9caa99" text-anchor="end">2</text><text x="76" y="134" font-size="24" fill="#e7e6df" >Tenho foco em backend com Java e gosto de entender</text><text x="46" y="169" font-size="17" fill="#9caa99" text-anchor="end">3</text><text x="76" y="169" font-size="24" fill="#e7e6df" >o caminho entre uma regra de negócio e o dado salvo.</text><text x="46" y="204" font-size="17" fill="#9caa99" text-anchor="end">4</text><text x="76" y="204" font-size="24" fill="#e7e6df" ></text><text x="46" y="239" font-size="17" fill="#9caa99" text-anchor="end">5</text><text x="76" y="239" font-size="24" fill="#e7e6df" >Parte do meu código nasceu de necessidades do trabalho:</text><text x="46" y="274" font-size="17" fill="#9caa99" text-anchor="end">6</text><text x="76" y="274" font-size="24" fill="#e7e6df" >pedidos, comandas, entregas e fechamento de caixa.</text><text x="46" y="309" font-size="17" fill="#9caa99" text-anchor="end">7</text><text x="76" y="309" font-size="24" fill="#e7e6df" ></text><text x="46" y="344" font-size="17" fill="#9caa99" text-anchor="end">8</text><text x="76" y="344" font-size="24" fill="#e7e6df" >No Cdatra, estudo persistência por dentro: JDBC,</text><text x="46" y="379" font-size="17" fill="#9caa99" text-anchor="end">9</text><text x="76" y="379" font-size="24" fill="#e7e6df" >reflexão, SQL e testes. Na web, uso React e Node.js.</text>
+<rect x="2" y="414" width="956" height="37" rx="0" fill="#1b251b" />
+<rect x="2" y="414" width="126" height="37" rx="0" fill="#a7d88b" />
+<text x="64" y="439" font-size="16" fill="#101610" text-anchor="middle" font-weight="700">NORMAL</text>
+<text x="149" y="439" font-size="16" fill="#9caa99" >Java / backend / persistência</text>
+<text x="931" y="439" font-size="16" fill="#9caa99" text-anchor="end">utf-8</text>
+</svg>
