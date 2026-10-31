@@ -7,6 +7,7 @@ import urllib.error
 import urllib.request
 
 from render_profile import render
+from periods import bounds, summarize, LABELS
 
 USER = "LordCarvel"
 WAKA = "639f7836-87c5-41ed-8dd2-0f0090178640"
@@ -66,8 +67,27 @@ def wakatime():
     return {key: data.get(key) for key in ("total_seconds", "range", "languages")}
 
 
+def period_stats(now):
+    windows = bounds(now)
+    fields = []
+    for key, (start, end) in windows.items():
+        fields.append(f'''{key}: contributionsCollection(from:"{start.isoformat()}",to:"{end.isoformat()}") {{
+          totalCommitContributions
+          contributionCalendar {{ weeks {{ contributionDays {{ date contributionCount }} }} }}
+          commitContributionsByRepository(maxRepositories:100) {{
+            repository {{ name url isPrivate }} contributions {{ totalCount }}
+          }}
+        }}''')
+    query = 'query { user(login:"'+USER+'") { '+" ".join(fields)+' } }'
+    result = request("https://api.github.com/graphql", {"query": query}, os.environ["GH_TOKEN"])
+    if result.get("errors"):
+        raise RuntimeError("GitHub period query failed")
+    data = result["data"]["user"]
+    return {key: summarize(data[key], start, end, LABELS[key]) for key, (start,end) in windows.items()}
+
+
 if __name__ == "__main__":
     now = dt.datetime.now(ZONE)
     user, nodes = github(now)
-    render(user, nodes, wakatime(), now)
+    render(user, nodes, wakatime(), now, period_stats(now))
     print("Profile regenerated from current public data.")

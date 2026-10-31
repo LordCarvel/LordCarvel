@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="417" viewBox="0 0 960 417" role="img" aria-labelledby="title desc">
+<title id="title">continue-a-conversa.md</title><desc id="desc">Comece pelo Cdatra para conhecer meu trabalho em Java, persistência e testes. Explore o Easy Hub para interface, servidor e desktop.</desc>
+<style>
+text{font-family:'Cascadia Code','DejaVu Sans Mono',Consolas,monospace}
+.cursor{animation:blink 1.25s steps(1) infinite}
+@keyframes blink{0%,55%{opacity:1}56%,100%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.cursor{animation:none}}
+</style>
+<rect x="1" y="1" width="958" height="415" rx="12" fill="#101610" stroke="#354333"/>
+<rect x="2" y="2" width="956" height="49" rx="11" fill="#1b251b" />
+<rect x="2" y="38" width="956" height="13" rx="0" fill="#1b251b" />
+<rect x="2" y="2" width="5" height="49" rx="0" fill="#e6bc80" />
+<text x="29" y="34" font-size="20" fill="#e6bc80" >▸ continue-a-conversa.md</text>
+<text x="930" y="34" font-size="16" fill="#9caa99" text-anchor="end">carvel / workspace</text>
+<text x="32" y="102" font-size="33" fill="#e7e6df" font-weight="700">Quer conhecer meu código?</text><text x="32" y="151" font-size="23" fill="#e6bc80" >Comece pelo Cdatra: Java, persistência e testes.</text><text x="32" y="190" font-size="23" fill="#9caa99" >A API, os exemplos e os limites estão documentados.</text><text x="32" y="246" font-size="23" fill="#a7d88b" >No Easy Hub, veja a aplicação completa:</text><text x="32" y="285" font-size="23" fill="#9caa99" >interface, servidor, impressão e versão desktop.</text><text x="32" y="340" font-size="23" fill="#e7e6df" >Gosto de entender o problema antes de escrever a solução.</text>
+<rect x="2" y="378" width="956" height="37" rx="0" fill="#1b251b" />
+<rect x="2" y="378" width="126" height="37" rx="0" fill="#e6bc80" />
+<text x="64" y="403" font-size="16" fill="#101610" text-anchor="middle" font-weight="700">NORMAL</text>
+<text x="149" y="403" font-size="16" fill="#9caa99" >código aberto / exemplos reais</text>
+<text x="931" y="403" font-size="16" fill="#9caa99" text-anchor="end">utf-8</text>
+</svg>

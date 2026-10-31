@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="263" viewBox="0 0 960 263" role="img" aria-labelledby="title desc">
+<title id="title">atividade / selecionar período</title><desc id="desc">Abra o painel para filtrar contribuições, commits, dias ativos e projetos por período.</desc>
+<style>
+text{font-family:'Cascadia Code','DejaVu Sans Mono',Consolas,monospace}
+.cursor{animation:blink 1.25s steps(1) infinite}
+@keyframes blink{0%,55%{opacity:1}56%,100%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.cursor{animation:none}}
+</style>
+<rect x="1" y="1" width="958" height="261" rx="12" fill="#101610" stroke="#354333"/>
+<rect x="2" y="2" width="956" height="49" rx="11" fill="#1b251b" />
+<rect x="2" y="38" width="956" height="13" rx="0" fill="#1b251b" />
+<rect x="2" y="2" width="5" height="49" rx="0" fill="#a7d88b" />
+<text x="29" y="34" font-size="20" fill="#a7d88b" >▸ atividade / selecionar período</text>
+<text x="930" y="34" font-size="16" fill="#9caa99" text-anchor="end">carvel / workspace</text>
+<text x="32" y="103" font-size="33" fill="#e7e6df" font-weight="700">Meu código, ao longo do tempo.</text><text x="32" y="146" font-size="23" fill="#9caa99" >Escolha um período e explore os projetos em atividade.</text><text x="32" y="191" font-size="21" fill="#a7d88b" >Abrir painel interativo / mês · bimestre · semestre · ano</text>
+<rect x="2" y="224" width="956" height="37" rx="0" fill="#1b251b" />
+<rect x="2" y="224" width="126" height="37" rx="0" fill="#a7d88b" />
+<text x="64" y="249" font-size="16" fill="#101610" text-anchor="middle" font-weight="700">NORMAL</text>
+<text x="149" y="249" font-size="16" fill="#9caa99" >períodos de calendário / dados do GitHub</text>
+<text x="931" y="249" font-size="16" fill="#9caa99" text-anchor="end">utf-8</text>
+</svg>

@@ -2,7 +2,7 @@
 
 <p align="center"><img src="./assets/termux.svg" width="960" alt="Carvel, desenvolvimento backend com Java. Cabeçalho com estatísticas atuais do GitHub e WakaTime." /></p>
 
-<p align="center"><a href="https://github.com/LordCarvel?tab=repositories">Repositórios</a> &nbsp; / &nbsp; <a href="https://github.com/LordCarvel/Cdatra">Java e persistência</a> &nbsp; / &nbsp; <a href="https://wakatime.com/@639f7836-87c5-41ed-8dd2-0f0090178640">WakaTime</a></p>
+<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/#activity">Explorar atividade por período</a> &nbsp; / &nbsp; <a href="https://github.com/LordCarvel/Cdatra">Conhecer o Cdatra</a> &nbsp; / &nbsp; <a href="https://github.com/LordCarvel?tab=repositories">Todos os projetos</a></p>
 
 <p align="center"><img src="./assets/about.svg" width="960" alt="Sobre Carvel: foco em backend Java, persistência e aplicações para pedidos, entregas e caixa." /></p>
 
@@ -16,7 +16,42 @@
 
 <p align="center"><a href="https://github.com/LordCarvel/Finally-Storage"><img src="./assets/project-Finally-Storage.svg" width="960" alt="Finally Storage: Conferência de valores e fechamento diário de caixa. Abrir repositório." /></a></p>
 
-<p align="center"><img src="./assets/github-stats.svg" width="960" alt="Atividade GitHub: contribuições, commits, dias ativos, evolução mensal e calendário dos últimos 12 meses." /></p>
+<a id="atividade-por-periodo"></a>
+
+<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/#activity"><img src="./assets/explore.svg" width="960" alt="Explore a atividade por mês, bimestre, semestre ou ano no painel interativo." /></a></p>
+
+<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=mes#activity"><img src="./assets/filter-mes.svg" width="22%" alt="Filtrar: Mês" /></a>
+<a href="https://lordcarvel.github.io/LordCarvel/?period=bimestre#activity"><img src="./assets/filter-bimestre.svg" width="22%" alt="Filtrar: Bimestre" /></a>
+<a href="https://lordcarvel.github.io/LordCarvel/?period=semestre#activity"><img src="./assets/filter-semestre.svg" width="22%" alt="Filtrar: Semestre" /></a>
+<a href="https://lordcarvel.github.io/LordCarvel/?period=ano#activity"><img src="./assets/filter-ano.svg" width="22%" alt="Filtrar: Ano" /></a></p>
+
+<details>
+<summary>Mês atual · 111 contribuições · 109 commits</summary>
+
+<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=mes#activity"><img src="./assets/period-mes.svg" width="960" alt="Mês atual, 2026-10-01 a 2026-10-31: 111 contribuições, 109 commits e 7 dias ativos." /></a></p>
+
+</details>
+
+<details>
+<summary>Bimestre atual · 125 contribuições · 121 commits</summary>
+
+<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=bimestre#activity"><img src="./assets/period-bimestre.svg" width="960" alt="Bimestre atual, 2026-09-01 a 2026-10-31: 125 contribuições, 121 commits e 11 dias ativos." /></a></p>
+
+</details>
+
+<details>
+<summary>Semestre atual · 151 contribuições · 146 commits</summary>
+
+<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=semestre#activity"><img src="./assets/period-semestre.svg" width="960" alt="Semestre atual, 2026-07-01 a 2026-10-31: 151 contribuições, 146 commits e 18 dias ativos." /></a></p>
+
+</details>
+
+<details>
+<summary>Ano atual · 213 contribuições · 205 commits</summary>
+
+<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=ano#activity"><img src="./assets/period-ano.svg" width="960" alt="Ano atual, 2026-01-01 a 2026-10-31: 213 contribuições, 205 commits e 35 dias ativos." /></a></p>
+
+</details>
 
 <p align="center"><img src="./assets/languages.svg" width="960" alt="Distribuição atual das linguagens pelo tamanho de código nos repositórios públicos." /></p>
 
@@ -26,34 +61,8 @@
 
 <!-- WAKATIME:END -->
 
-<details>
-<summary>Sobre mim e os projetos · versão em texto</summary>
+<p align="center"><a href="https://github.com/LordCarvel/Cdatra"><img src="./assets/review.svg" width="960" alt="Quer conhecer meu código? Comece pelo Cdatra para Java, API de persistência, testes e documentação. Veja o Easy Hub para uma aplicação com interface, servidor e desktop." /></a></p>
 
-## Carvel — desenvolvimento backend
+<p align="center"><a href="https://github.com/LordCarvel/Cdatra#readme">Ler a documentação do Cdatra</a> &nbsp; / &nbsp; <a href="https://github.com/LordCarvel/EasyPrintV2">Explorar o Easy Hub</a> &nbsp; / &nbsp; <a href="https://lordcarvel.github.io/LordCarvel/">Ver minha atividade</a></p>
 
-Tenho foco em backend com Java e gosto de entender o caminho entre uma regra de negócio e o dado salvo. Parte dos meus projetos nasceu de necessidades do trabalho: pedidos, comandas, entregas e fechamento de caixa.
-
-No Cdatra, estudo persistência por dentro: JDBC, reflexão, SQL e testes. Também uso React, JavaScript e Node.js nos projetos web, além de Electron para desktop. Estou aprofundando Java, banco de dados e testes de backend.
-
-### Tecnologias
-
-- **Backend e dados:** Java 17, Node.js, JDBC, SQL, H2 e SQLite.
-- **Fundamentos:** orientação a objetos, generics, reflexão e anotações.
-- **Web e desktop:** React, JavaScript, HTML, CSS, Vite e Electron.
-- **Qualidade e ferramentas:** JUnit, Maven, JaCoCo, Git, GitHub Actions e Neovim.
-
-### Por onde começar a avaliar meu trabalho
-
-O [Cdatra](https://github.com/LordCarvel/Cdatra) reúne uma API de persistência Java com `Repository<T>`, mapeamento por anotações, filtros, testes de integração e documentação dos limites da biblioteca. É o projeto mais ligado ao meu foco em backend.
-
-O [EasyPrintV2 / Easy Hub](https://github.com/LordCarvel/EasyPrintV2) combina interface React, servidor Node.js, impressão de comandas e versão desktop Electron para Windows.
-
-O [Delivery Board](https://github.com/LordCarvel/Delivery-Board-V2) organiza entregadores, pedidos e rodadas de entrega, com dados no navegador.
-
-O [Finally Storage](https://github.com/LordCarvel/Finally-Storage) facilita a conferência de totais dos entregadores, valores por forma de pagamento e fechamento diário.
-
-Procuro começar pelo problema e entender o fluxo de quem vai usar a ferramenta. Nos projetos de operação, isso aparece no cuidado com pedidos, impressão e conferência de valores. No Cdatra, o foco é estudar a implementação, testar comportamentos e documentar o que a biblioteca faz.
-
-</details>
-
-<p align="center"><sub>Atualização a cada 6 horas via GitHub Actions. GitHub: últimos 12 meses; mês atual parcial. Linguagens do GitHub: bytes de código público, incluindo arquivados e excluindo forks. WakaTime: tempo registrado no período público selecionado.</sub></p>
+<p align="center"><sub>Dados atualizados a cada 6 horas. Filtros: períodos de calendário em andamento. WakaTime: histórico público completo, independente dos filtros. Linguagens do GitHub: tamanho atual do código público, sem recorte de período.</sub></p>
