@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="450" viewBox="0 0 960 450" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Carvel — Neovim dentro do Termux</title>
+  <desc id="desc">O arquivo perfil.md aberto no Neovim dentro do Termux: números de linha, nome Carvel, a frase do Termux ao backend, modo NORMAL e teclas extras do terminal.</desc>
+  <rect x="1" y="1" width="958" height="448" rx="14" fill="#0c0c0c" stroke="#353832" stroke-width="2"/>
+  <g font-family="'Cascadia Code','DejaVu Sans Mono',Consolas,monospace">
+    <text x="40" y="43" fill="#a8aaa2" font-size="16">/data/data/com.termux/files/home</text>
+    <text x="920" y="43" text-anchor="end" fill="#a8aaa2" font-size="16">~/perfil</text>
+    <path d="M32 65H928" stroke="#30332c"/>
+    <text x="40" y="109" font-size="22"><tspan fill="#a7e084">~ $ </tspan><tspan fill="#f1f1ed">nvim perfil.md</tspan></text>
+    <path d="M73 131V320" stroke="#30332c"/>
+    <g fill="#81867a" font-size="17" text-anchor="end">
+      <text x="57" y="199" fill="#a7e084">1</text>
+      <text x="57" y="249">2</text>
+      <text x="57" y="293">3</text>
+      <text x="57" y="320">~</text>
+    </g>
+    <text x="96" y="202" fill="#f1f1ed" font-size="84" font-weight="700" letter-spacing="-4">CARVEL</text>
+    <rect x="360" y="142" width="44" height="69" fill="#a7e084"/>
+    <text x="96" y="249" fill="#e6bd78" font-size="28">do Termux ao backend.</text>
+    <text x="96" y="293" fill="#bcbeb6" font-size="21">Comecei no celular. Continuei construindo.</text>
+    <path d="M1 335H959V374H1Z" fill="#23271f"/>
+    <path d="M1 335H144V374H1Z" fill="#a7e084"/>
+    <text x="72" y="360" text-anchor="middle" fill="#0c0c0c" font-size="17" font-weight="700">NORMAL</text>
+    <text x="167" y="360" fill="#f1f1ed" font-size="17">perfil.md</text>
+    <text x="920" y="360" text-anchor="end" fill="#bcbeb6" font-size="17">utf-8   markdown   1:7</text>
+    <path d="M1 386H959" stroke="#30332c"/>
+    <g fill="#d7d9d1" font-size="18" text-anchor="middle">
+      <text x="80" y="424">ESC</text>
+      <text x="213" y="424">/</text>
+      <text x="346" y="424">−</text>
+      <text x="480" y="424">HOME</text>
+      <text x="613" y="424">↑</text>
+      <text x="746" y="424">END</text>
+      <text x="880" y="424">PGUP</text>
+    </g>
+  </g>
+</svg>
