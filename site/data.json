@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T21:13:02.662150-03:00",
+  "updated_at": "2026-11-01T07:38:29.864164-03:00",
   "profile": {
     "name": "Carvel",
     "role": "Desenvolvimento backend com Java",
@@ -67,154 +67,18 @@
   "periods": {
     "mes": {
       "label": "Mês atual",
-      "start": "2026-10-01",
-      "end": "2026-10-31",
-      "contributions": 149,
-      "commits": 147,
-      "active_days": 7,
+      "start": "2026-11-01",
+      "end": "2026-11-01",
+      "contributions": 0,
+      "commits": 0,
+      "active_days": 0,
       "days": [
         {
-          "date": "2026-10-01",
+          "date": "2026-11-01",
           "count": 0
-        },
-        {
-          "date": "2026-10-02",
-          "count": 0
-        },
-        {
-          "date": "2026-10-03",
-          "count": 1
-        },
-        {
-          "date": "2026-10-04",
-          "count": 0
-        },
-        {
-          "date": "2026-10-05",
-          "count": 0
-        },
-        {
-          "date": "2026-10-06",
-          "count": 0
-        },
-        {
-          "date": "2026-10-07",
-          "count": 33
-        },
-        {
-          "date": "2026-10-08",
-          "count": 23
-        },
-        {
-          "date": "2026-10-09",
-          "count": 0
-        },
-        {
-          "date": "2026-10-10",
-          "count": 0
-        },
-        {
-          "date": "2026-10-11",
-          "count": 0
-        },
-        {
-          "date": "2026-10-12",
-          "count": 0
-        },
-        {
-          "date": "2026-10-13",
-          "count": 0
-        },
-        {
-          "date": "2026-10-14",
-          "count": 0
-        },
-        {
-          "date": "2026-10-15",
-          "count": 0
-        },
-        {
-          "date": "2026-10-16",
-          "count": 0
-        },
-        {
-          "date": "2026-10-17",
-          "count": 0
-        },
-        {
-          "date": "2026-10-18",
-          "count": 0
-        },
-        {
-          "date": "2026-10-19",
-          "count": 0
-        },
-        {
-          "date": "2026-10-20",
-          "count": 0
-        },
-        {
-          "date": "2026-10-21",
-          "count": 0
-        },
-        {
-          "date": "2026-10-22",
-          "count": 0
-        },
-        {
-          "date": "2026-10-23",
-          "count": 0
-        },
-        {
-          "date": "2026-10-24",
-          "count": 0
-        },
-        {
-          "date": "2026-10-25",
-          "count": 0
-        },
-        {
-          "date": "2026-10-26",
-          "count": 0
-        },
-        {
-          "date": "2026-10-27",
-          "count": 0
-        },
-        {
-          "date": "2026-10-28",
-          "count": 4
-        },
-        {
-          "date": "2026-10-29",
-          "count": 22
-        },
-        {
-          "date": "2026-10-30",
-          "count": 22
-        },
-        {
-          "date": "2026-10-31",
-          "count": 44
         }
       ],
-      "repositories": [
-        {
-          "name": "Cdatra",
-          "url": "https://github.com/LordCarvel/Cdatra",
-          "commits": 140
-        },
-        {
-          "name": "LordCarvel",
-          "url": "https://github.com/LordCarvel/LordCarvel",
-          "commits": 6
-        },
-        {
-          "name": "MeuCardapioPage",
-          "url": "https://github.com/LordCarvel/MeuCardapioPage",
-          "commits": 1
-        }
-      ],
+      "repositories": [],
       "wakatime": {
         "available": false,
         "reason": "O WakaTime disponibiliza o histórico completo, sem recorte público para este período.",
@@ -223,274 +87,18 @@
     },
     "bimestre": {
       "label": "Bimestre atual",
-      "start": "2026-09-01",
-      "end": "2026-10-31",
-      "contributions": 163,
-      "commits": 159,
-      "active_days": 11,
+      "start": "2026-11-01",
+      "end": "2026-11-01",
+      "contributions": 0,
+      "commits": 0,
+      "active_days": 0,
       "days": [
         {
-          "date": "2026-09-01",
+          "date": "2026-11-01",
           "count": 0
-        },
-        {
-          "date": "2026-09-02",
-          "count": 0
-        },
-        {
-          "date": "2026-09-03",
-          "count": 0
-        },
-        {
-          "date": "2026-09-04",
-          "count": 0
-        },
-        {
-          "date": "2026-09-05",
-          "count": 0
-        },
-        {
-          "date": "2026-09-06",
-          "count": 0
-        },
-        {
-          "date": "2026-09-07",
-          "count": 0
-        },
-        {
-          "date": "2026-09-08",
-          "count": 0
-        },
-        {
-          "date": "2026-09-09",
-          "count": 0
-        },
-        {
-          "date": "2026-09-10",
-          "count": 0
-        },
-        {
-          "date": "2026-09-11",
-          "count": 0
-        },
-        {
-          "date": "2026-09-12",
-          "count": 0
-        },
-        {
-          "date": "2026-09-13",
-          "count": 0
-        },
-        {
-          "date": "2026-09-14",
-          "count": 1
-        },
-        {
-          "date": "2026-09-15",
-          "count": 9
-        },
-        {
-          "date": "2026-09-16",
-          "count": 3
-        },
-        {
-          "date": "2026-09-17",
-          "count": 0
-        },
-        {
-          "date": "2026-09-18",
-          "count": 0
-        },
-        {
-          "date": "2026-09-19",
-          "count": 0
-        },
-        {
-          "date": "2026-09-20",
-          "count": 0
-        },
-        {
-          "date": "2026-09-21",
-          "count": 0
-        },
-        {
-          "date": "2026-09-22",
-          "count": 0
-        },
-        {
-          "date": "2026-09-23",
-          "count": 0
-        },
-        {
-          "date": "2026-09-24",
-          "count": 0
-        },
-        {
-          "date": "2026-09-25",
-          "count": 1
-        },
-        {
-          "date": "2026-09-26",
-          "count": 0
-        },
-        {
-          "date": "2026-09-27",
-          "count": 0
-        },
-        {
-          "date": "2026-09-28",
-          "count": 0
-        },
-        {
-          "date": "2026-09-29",
-          "count": 0
-        },
-        {
-          "date": "2026-09-30",
-          "count": 0
-        },
-        {
-          "date": "2026-10-01",
-          "count": 0
-        },
-        {
-          "date": "2026-10-02",
-          "count": 0
-        },
-        {
-          "date": "2026-10-03",
-          "count": 1
-        },
-        {
-          "date": "2026-10-04",
-          "count": 0
-        },
-        {
-          "date": "2026-10-05",
-          "count": 0
-        },
-        {
-          "date": "2026-10-06",
-          "count": 0
-        },
-        {
-          "date": "2026-10-07",
-          "count": 33
-        },
-        {
-          "date": "2026-10-08",
-          "count": 23
-        },
-        {
-          "date": "2026-10-09",
-          "count": 0
-        },
-        {
-          "date": "2026-10-10",
-          "count": 0
-        },
-        {
-          "date": "2026-10-11",
-          "count": 0
-        },
-        {
-          "date": "2026-10-12",
-          "count": 0
-        },
-        {
-          "date": "2026-10-13",
-          "count": 0
-        },
-        {
-          "date": "2026-10-14",
-          "count": 0
-        },
-        {
-          "date": "2026-10-15",
-          "count": 0
-        },
-        {
-          "date": "2026-10-16",
-          "count": 0
-        },
-        {
-          "date": "2026-10-17",
-          "count": 0
-        },
-        {
-          "date": "2026-10-18",
-          "count": 0
-        },
-        {
-          "date": "2026-10-19",
-          "count": 0
-        },
-        {
-          "date": "2026-10-20",
-          "count": 0
-        },
-        {
-          "date": "2026-10-21",
-          "count": 0
-        },
-        {
-          "date": "2026-10-22",
-          "count": 0
-        },
-        {
-          "date": "2026-10-23",
-          "count": 0
-        },
-        {
-          "date": "2026-10-24",
-          "count": 0
-        },
-        {
-          "date": "2026-10-25",
-          "count": 0
-        },
-        {
-          "date": "2026-10-26",
-          "count": 0
-        },
-        {
-          "date": "2026-10-27",
-          "count": 0
-        },
-        {
-          "date": "2026-10-28",
-          "count": 4
-        },
-        {
-          "date": "2026-10-29",
-          "count": 22
-        },
-        {
-          "date": "2026-10-30",
-          "count": 22
-        },
-        {
-          "date": "2026-10-31",
-          "count": 44
         }
       ],
-      "repositories": [
-        {
-          "name": "Cdatra",
-          "url": "https://github.com/LordCarvel/Cdatra",
-          "commits": 152
-        },
-        {
-          "name": "LordCarvel",
-          "url": "https://github.com/LordCarvel/LordCarvel",
-          "commits": 6
-        },
-        {
-          "name": "MeuCardapioPage",
-          "url": "https://github.com/LordCarvel/MeuCardapioPage",
-          "commits": 1
-        }
-      ],
+      "repositories": [],
       "wakatime": {
         "available": false,
         "reason": "O WakaTime disponibiliza o histórico completo, sem recorte público para este período.",
@@ -500,7 +108,7 @@
     "semestre": {
       "label": "Semestre atual",
       "start": "2026-07-01",
-      "end": "2026-10-31",
+      "end": "2026-11-01",
       "contributions": 189,
       "commits": 184,
       "active_days": 18,
@@ -996,6 +604,10 @@
         {
           "date": "2026-10-31",
           "count": 44
+        },
+        {
+          "date": "2026-11-01",
+          "count": 0
         }
       ],
       "repositories": [
@@ -1029,7 +641,7 @@
     "ano": {
       "label": "Ano atual",
       "start": "2026-01-01",
-      "end": "2026-10-31",
+      "end": "2026-11-01",
       "contributions": 251,
       "commits": 243,
       "active_days": 36,
@@ -2249,6 +1861,10 @@
         {
           "date": "2026-10-31",
           "count": 44
+        },
+        {
+          "date": "2026-11-01",
+          "count": 0
         }
       ],
       "repositories": [
@@ -2327,39 +1943,39 @@
     }
   ],
   "wakatime": {
-    "total_seconds": 856973.22,
+    "total_seconds": 883271.806,
     "range": "all_time",
     "languages": [
       {
         "name": "JavaScript",
-        "total_seconds": 333719.569,
-        "ai_coding_seconds": "213058.978000",
-        "manual_coding_seconds": "120660.591000",
-        "percent": 36.06,
-        "digital": "92:41",
-        "decimal": "92.68",
-        "text": "92 hrs 41 mins",
-        "hours": 92,
-        "minutes": 41
+        "total_seconds": 337669.477,
+        "ai_coding_seconds": "216231.382000",
+        "manual_coding_seconds": "121438.095000",
+        "percent": 35.43,
+        "digital": "93:47",
+        "decimal": "93.78",
+        "text": "93 hrs 47 mins",
+        "hours": 93,
+        "minutes": 47
       },
       {
         "name": "Java",
-        "total_seconds": 268170.912,
-        "ai_coding_seconds": "89096.803000",
-        "manual_coding_seconds": "179074.109000",
-        "percent": 28.97,
-        "digital": "74:29",
-        "decimal": "74.48",
-        "text": "74 hrs 29 mins",
-        "hours": 74,
-        "minutes": 29
+        "total_seconds": 283326.526,
+        "ai_coding_seconds": "97425.507000",
+        "manual_coding_seconds": "185901.019000",
+        "percent": 29.73,
+        "digital": "78:42",
+        "decimal": "78.70",
+        "text": "78 hrs 42 mins",
+        "hours": 78,
+        "minutes": 42
       },
       {
         "name": "CSS",
-        "total_seconds": 101293.382,
-        "ai_coding_seconds": "51386.696000",
+        "total_seconds": 101295.243,
+        "ai_coding_seconds": "51388.557000",
         "manual_coding_seconds": "49906.686000",
-        "percent": 10.94,
+        "percent": 10.63,
         "digital": "28:08",
         "decimal": "28.13",
         "text": "28 hrs 8 mins",
@@ -2368,34 +1984,34 @@
       },
       {
         "name": "Other",
-        "total_seconds": 68599.517,
-        "ai_coding_seconds": "63771.159000",
+        "total_seconds": 69857.684,
+        "ai_coding_seconds": "65029.326000",
         "manual_coding_seconds": "0.000000",
-        "percent": 7.41,
-        "digital": "19:03",
-        "decimal": "19.05",
-        "text": "19 hrs 3 mins",
+        "percent": 7.33,
+        "digital": "19:24",
+        "decimal": "19.40",
+        "text": "19 hrs 24 mins",
         "hours": 19,
-        "minutes": 3
+        "minutes": 24
       },
       {
         "name": "Markdown",
-        "total_seconds": 44928.164,
-        "ai_coding_seconds": "41134.328000",
+        "total_seconds": 49793.921,
+        "ai_coding_seconds": "46000.085000",
         "manual_coding_seconds": "3793.836000",
-        "percent": 4.85,
-        "digital": "12:28",
-        "decimal": "12.47",
-        "text": "12 hrs 28 mins",
-        "hours": 12,
-        "minutes": 28
+        "percent": 5.22,
+        "digital": "13:49",
+        "decimal": "13.82",
+        "text": "13 hrs 49 mins",
+        "hours": 13,
+        "minutes": 49
       },
       {
         "name": "JSON",
         "total_seconds": 22573.05,
         "ai_coding_seconds": "16125.355000",
         "manual_coding_seconds": "6447.695000",
-        "percent": 2.44,
+        "percent": 2.37,
         "digital": "6:16",
         "decimal": "6.27",
         "text": "6 hrs 16 mins",
@@ -2404,34 +2020,34 @@
       },
       {
         "name": "HTML",
-        "total_seconds": 20995.689,
-        "ai_coding_seconds": "5044.478000",
+        "total_seconds": 21032.112,
+        "ai_coding_seconds": "5080.901000",
         "manual_coding_seconds": "15951.211000",
-        "percent": 2.27,
-        "digital": "5:49",
-        "decimal": "5.82",
-        "text": "5 hrs 49 mins",
+        "percent": 2.21,
+        "digital": "5:50",
+        "decimal": "5.83",
+        "text": "5 hrs 50 mins",
         "hours": 5,
-        "minutes": 49
+        "minutes": 50
       },
       {
         "name": "PowerShell",
-        "total_seconds": 9819.514,
-        "ai_coding_seconds": "9819.514000",
+        "total_seconds": 10044.606,
+        "ai_coding_seconds": "10044.606000",
         "manual_coding_seconds": "0.000000",
-        "percent": 1.06,
-        "digital": "2:43",
-        "decimal": "2.72",
-        "text": "2 hrs 43 mins",
+        "percent": 1.05,
+        "digital": "2:47",
+        "decimal": "2.78",
+        "text": "2 hrs 47 mins",
         "hours": 2,
-        "minutes": 43
+        "minutes": 47
       },
       {
         "name": "SQL",
         "total_seconds": 9079.846,
         "ai_coding_seconds": "7760.775000",
         "manual_coding_seconds": "1319.071000",
-        "percent": 0.98,
+        "percent": 0.95,
         "digital": "2:31",
         "decimal": "2.52",
         "text": "2 hrs 31 mins",
@@ -2439,11 +2055,23 @@
         "minutes": 31
       },
       {
+        "name": "Text",
+        "total_seconds": 8261.018,
+        "ai_coding_seconds": "7904.289000",
+        "manual_coding_seconds": "356.729000",
+        "percent": 0.87,
+        "digital": "2:17",
+        "decimal": "2.28",
+        "text": "2 hrs 17 mins",
+        "hours": 2,
+        "minutes": 17
+      },
+      {
         "name": "HTTP Request",
         "total_seconds": 8047.981,
         "ai_coding_seconds": "0.000000",
         "manual_coding_seconds": "8047.981000",
-        "percent": 0.87,
+        "percent": 0.84,
         "digital": "2:14",
         "decimal": "2.23",
         "text": "2 hrs 14 mins",
@@ -2451,35 +2079,23 @@
         "minutes": 14
       },
       {
-        "name": "Text",
-        "total_seconds": 7917.142,
-        "ai_coding_seconds": "7904.289000",
-        "manual_coding_seconds": "12.853000",
-        "percent": 0.86,
-        "digital": "2:11",
-        "decimal": "2.18",
-        "text": "2 hrs 11 mins",
-        "hours": 2,
-        "minutes": 11
-      },
-      {
         "name": "YAML",
-        "total_seconds": 7210.165,
-        "ai_coding_seconds": "6802.427000",
+        "total_seconds": 7333.972,
+        "ai_coding_seconds": "6926.234000",
         "manual_coding_seconds": "407.738000",
-        "percent": 0.78,
-        "digital": "2:00",
-        "decimal": "2.00",
-        "text": "2 hrs",
+        "percent": 0.77,
+        "digital": "2:02",
+        "decimal": "2.03",
+        "text": "2 hrs 2 mins",
         "hours": 2,
-        "minutes": 0
+        "minutes": 2
       },
       {
         "name": "TypeScript",
         "total_seconds": 4495.36,
         "ai_coding_seconds": "857.265000",
         "manual_coding_seconds": "3638.095000",
-        "percent": 0.49,
+        "percent": 0.47,
         "digital": "1:14",
         "decimal": "1.23",
         "text": "1 hr 14 mins",
@@ -2488,10 +2104,10 @@
       },
       {
         "name": "XML",
-        "total_seconds": 3844.495,
-        "ai_coding_seconds": "1449.608000",
-        "manual_coding_seconds": "2394.887000",
-        "percent": 0.42,
+        "total_seconds": 3869.561,
+        "ai_coding_seconds": "1474.551000",
+        "manual_coding_seconds": "2395.010000",
+        "percent": 0.41,
         "digital": "1:04",
         "decimal": "1.07",
         "text": "1 hr 4 mins",
@@ -2499,11 +2115,35 @@
         "minutes": 4
       },
       {
+        "name": "Python",
+        "total_seconds": 3227.213,
+        "ai_coding_seconds": "3227.213000",
+        "manual_coding_seconds": "0.000000",
+        "percent": 0.34,
+        "digital": "0:53",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 2848.316,
+        "ai_coding_seconds": "2837.262000",
+        "manual_coding_seconds": "11.054000",
+        "percent": 0.3,
+        "digital": "0:47",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47
+      },
+      {
         "name": "Java Properties",
         "total_seconds": 2756.285,
         "ai_coding_seconds": "2284.076000",
         "manual_coding_seconds": "472.209000",
-        "percent": 0.3,
+        "percent": 0.29,
         "digital": "0:45",
         "decimal": "0.75",
         "text": "45 mins",
@@ -2511,35 +2151,11 @@
         "minutes": 45
       },
       {
-        "name": "Git Config",
-        "total_seconds": 2625.687,
-        "ai_coding_seconds": "2614.633000",
-        "manual_coding_seconds": "11.054000",
-        "percent": 0.28,
-        "digital": "0:43",
-        "decimal": "0.72",
-        "text": "43 mins",
-        "hours": 0,
-        "minutes": 43
-      },
-      {
-        "name": "Python",
-        "total_seconds": 2540.267,
-        "ai_coding_seconds": "2540.267000",
-        "manual_coding_seconds": "0.000000",
-        "percent": 0.27,
-        "digital": "0:42",
-        "decimal": "0.70",
-        "text": "42 mins",
-        "hours": 0,
-        "minutes": 42
-      },
-      {
         "name": "Git",
         "total_seconds": 1812.424,
         "ai_coding_seconds": "154.044000",
         "manual_coding_seconds": "1658.380000",
-        "percent": 0.2,
+        "percent": 0.19,
         "digital": "0:30",
         "decimal": "0.50",
         "text": "30 mins",
@@ -2551,7 +2167,7 @@
         "total_seconds": 1529.855,
         "ai_coding_seconds": "1519.321000",
         "manual_coding_seconds": "10.534000",
-        "percent": 0.17,
+        "percent": 0.16,
         "digital": "0:25",
         "decimal": "0.42",
         "text": "25 mins",
@@ -2595,6 +2211,18 @@
         "minutes": 15
       },
       {
+        "name": "Image (svg)",
+        "total_seconds": 680.305,
+        "ai_coding_seconds": "680.305000",
+        "manual_coding_seconds": "0.000000",
+        "percent": 0.07,
+        "digital": "0:11",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11
+      },
+      {
         "name": "Properties",
         "total_seconds": 560.383,
         "ai_coding_seconds": "0.000000",
@@ -2619,21 +2247,9 @@
         "minutes": 1
       },
       {
-        "name": "Image (svg)",
-        "total_seconds": 19.0,
-        "ai_coding_seconds": "19.000000",
-        "manual_coding_seconds": "0.000000",
-        "percent": 0.0,
-        "digital": "0:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0
-      },
-      {
         "name": "TOML",
-        "total_seconds": 16.896,
-        "ai_coding_seconds": "0.000000",
+        "total_seconds": 17.198,
+        "ai_coding_seconds": "0.302000",
         "manual_coding_seconds": "16.896000",
         "percent": 0.0,
         "digital": "0:00",
@@ -2691,6 +2307,6 @@
         "minutes": 0
       }
     ],
-    "updated_at": "2026-10-31T21:13:02.662150-03:00"
+    "updated_at": "2026-11-01T07:38:29.864164-03:00"
   }
 }
