@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T14:28:43.785393-03:00",
+  "updated_at": "2026-10-31T21:13:02.662150-03:00",
   "profile": {
     "name": "Carvel",
     "role": "Desenvolvimento backend com Java",
@@ -17,8 +17,8 @@
           "Maven",
           "JUnit"
         ],
-        "commits": 121,
-        "pushed_at": "2026-10-31T01:06:51Z"
+        "commits": 158,
+        "pushed_at": "2026-11-01T00:10:37Z"
       },
       {
         "name": "EasyPrintV2",
@@ -69,8 +69,8 @@
       "label": "Mês atual",
       "start": "2026-10-01",
       "end": "2026-10-31",
-      "contributions": 112,
-      "commits": 110,
+      "contributions": 149,
+      "commits": 147,
       "active_days": 7,
       "days": [
         {
@@ -195,14 +195,14 @@
         },
         {
           "date": "2026-10-31",
-          "count": 7
+          "count": 44
         }
       ],
       "repositories": [
         {
           "name": "Cdatra",
           "url": "https://github.com/LordCarvel/Cdatra",
-          "commits": 103
+          "commits": 140
         },
         {
           "name": "LordCarvel",
@@ -225,8 +225,8 @@
       "label": "Bimestre atual",
       "start": "2026-09-01",
       "end": "2026-10-31",
-      "contributions": 126,
-      "commits": 122,
+      "contributions": 163,
+      "commits": 159,
       "active_days": 11,
       "days": [
         {
@@ -471,14 +471,14 @@
         },
         {
           "date": "2026-10-31",
-          "count": 7
+          "count": 44
         }
       ],
       "repositories": [
         {
           "name": "Cdatra",
           "url": "https://github.com/LordCarvel/Cdatra",
-          "commits": 115
+          "commits": 152
         },
         {
           "name": "LordCarvel",
@@ -501,8 +501,8 @@
       "label": "Semestre atual",
       "start": "2026-07-01",
       "end": "2026-10-31",
-      "contributions": 152,
-      "commits": 147,
+      "contributions": 189,
+      "commits": 184,
       "active_days": 18,
       "days": [
         {
@@ -995,14 +995,14 @@
         },
         {
           "date": "2026-10-31",
-          "count": 7
+          "count": 44
         }
       ],
       "repositories": [
         {
           "name": "Cdatra",
           "url": "https://github.com/LordCarvel/Cdatra",
-          "commits": 115
+          "commits": 152
         },
         {
           "name": "EasyPrintV2",
@@ -1030,8 +1030,8 @@
       "label": "Ano atual",
       "start": "2026-01-01",
       "end": "2026-10-31",
-      "contributions": 214,
-      "commits": 206,
+      "contributions": 251,
+      "commits": 243,
       "active_days": 36,
       "days": [
         {
@@ -2248,14 +2248,14 @@
         },
         {
           "date": "2026-10-31",
-          "count": 7
+          "count": 44
         }
       ],
       "repositories": [
         {
           "name": "Cdatra",
           "url": "https://github.com/LordCarvel/Cdatra",
-          "commits": 115
+          "commits": 152
         },
         {
           "name": "EasyPrintV2",
@@ -2303,27 +2303,27 @@
   "languages": [
     {
       "name": "JavaScript",
-      "percent": 69.64843099748718
-    },
-    {
-      "name": "CSS",
-      "percent": 13.675379925865446
+      "percent": 67.48630604187767
     },
     {
       "name": "Java",
-      "percent": 12.486227058563127
+      "percent": 15.21043664163613
+    },
+    {
+      "name": "CSS",
+      "percent": 13.245121112170866
     },
     {
       "name": "Python",
-      "percent": 2.055925916666616
+      "percent": 1.9912417725518452
     },
     {
       "name": "HTML",
-      "percent": 1.0635424218791445
+      "percent": 1.0300809383055811
     },
     {
       "name": "Outras",
-      "percent": 1.0704936795384854
+      "percent": 1.0368134934579052
     }
   ],
   "wakatime": {
@@ -2691,6 +2691,6 @@
         "minutes": 0
       }
     ],
-    "updated_at": "2026-10-31T14:28:43.785393-03:00"
+    "updated_at": "2026-10-31T21:13:02.662150-03:00"
   }
 }

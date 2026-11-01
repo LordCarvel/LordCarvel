@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="418" viewBox="0 0 960 418" role="img" aria-labelledby="title desc">
-<title id="title">perfil.md</title><desc id="desc">Carvel, desenvolvimento backend com Java. 232 contribuições em 12 meses.</desc>
+<title id="title">perfil.md</title><desc id="desc">Carvel, desenvolvimento backend com Java. 269 contribuições em 12 meses.</desc>
 <style>
 text{font-family:'Cascadia Code','DejaVu Sans Mono',Consolas,monospace}
 .cursor{animation:blink 1.25s steps(1) infinite}
@@ -12,10 +12,10 @@ text{font-family:'Cascadia Code','DejaVu Sans Mono',Consolas,monospace}
 <rect x="2" y="2" width="5" height="49" rx="0" fill="#a7d88b" />
 <text x="29" y="34" font-size="20" fill="#a7d88b" >▸ perfil.md</text>
 <text x="930" y="34" font-size="16" fill="#9caa99" text-anchor="end">carvel / workspace</text>
-<text x="36" y="94" font-size="22" fill="#a7d88b" >~ $ nvim perfil.md</text><text x="33" y="160" font-size="18" fill="#9caa99" >1</text><text x="78" y="170" font-size="78" fill="#e7e6df" font-weight="700" letter-spacing="-3">CARVEL</text><rect x="330" y="109" width="40" height="68" rx="0" fill="#a7d88b" class="cursor"/><text x="33" y="211" font-size="18" fill="#9caa99" >2</text><text x="78" y="214" font-size="31" fill="#e6bc80" >Desenvolvimento backend</text><text x="33" y="255" font-size="18" fill="#9caa99" >3</text><text x="78" y="257" font-size="22" fill="#9caa99" >Java, dados e aplicações para o dia a dia.</text><rect x="32" y="283" width="896" height="1" rx="0" fill="#354333" /><text x="36" y="321" font-size="21" fill="#a7d88b" >15 repositórios públicos</text><text x="36" y="353" font-size="21" fill="#9caa99" >232 contribuições / 12 meses</text><text x="520" y="321" font-size="21" fill="#e6bc80" >238h 02min registrados</text><text x="520" y="353" font-size="19" fill="#9caa99" >WakaTime / histórico completo</text>
+<text x="36" y="94" font-size="22" fill="#a7d88b" >~ $ nvim perfil.md</text><text x="33" y="160" font-size="18" fill="#9caa99" >1</text><text x="78" y="170" font-size="78" fill="#e7e6df" font-weight="700" letter-spacing="-3">CARVEL</text><rect x="330" y="109" width="40" height="68" rx="0" fill="#a7d88b" class="cursor"/><text x="33" y="211" font-size="18" fill="#9caa99" >2</text><text x="78" y="214" font-size="31" fill="#e6bc80" >Desenvolvimento backend</text><text x="33" y="255" font-size="18" fill="#9caa99" >3</text><text x="78" y="257" font-size="22" fill="#9caa99" >Java, dados e aplicações para o dia a dia.</text><rect x="32" y="283" width="896" height="1" rx="0" fill="#354333" /><text x="36" y="321" font-size="21" fill="#a7d88b" >15 repositórios públicos</text><text x="36" y="353" font-size="21" fill="#9caa99" >269 contribuições / 12 meses</text><text x="520" y="321" font-size="21" fill="#e6bc80" >238h 02min registrados</text><text x="520" y="353" font-size="19" fill="#9caa99" >WakaTime / histórico completo</text>
 <rect x="2" y="379" width="956" height="37" rx="0" fill="#1b251b" />
 <rect x="2" y="379" width="126" height="37" rx="0" fill="#a7d88b" />
 <text x="64" y="404" font-size="16" fill="#101610" text-anchor="middle" font-weight="700">NORMAL</text>
-<text x="149" y="404" font-size="16" fill="#9caa99" >dados públicos / 31/10/2026 14:28 -03</text>
+<text x="149" y="404" font-size="16" fill="#9caa99" >dados públicos / 31/10/2026 21:13 -03</text>
 <text x="931" y="404" font-size="16" fill="#9caa99" text-anchor="end">utf-8</text>
 </svg>
