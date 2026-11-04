@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T08:10:53.813282-03:00",
+  "updated_at": "2026-11-04T18:22:15.404718-03:00",
   "profile": {
     "name": "Carvel",
     "role": "Desenvolvimento backend com Java",
@@ -69,8 +69,8 @@
       "label": "Mês atual",
       "start": "2026-11-01",
       "end": "2026-11-04",
-      "contributions": 34,
-      "commits": 33,
+      "contributions": 37,
+      "commits": 36,
       "active_days": 4,
       "days": [
         {
@@ -87,7 +87,7 @@
         },
         {
           "date": "2026-11-04",
-          "count": 2
+          "count": 5
         }
       ],
       "repositories": [
@@ -99,7 +99,7 @@
         {
           "name": "LordCarvel.github.io",
           "url": "https://github.com/LordCarvel/LordCarvel.github.io",
-          "commits": 2
+          "commits": 5
         }
       ],
       "wakatime": {
@@ -112,8 +112,8 @@
       "label": "Bimestre atual",
       "start": "2026-11-01",
       "end": "2026-11-04",
-      "contributions": 34,
-      "commits": 33,
+      "contributions": 37,
+      "commits": 36,
       "active_days": 4,
       "days": [
         {
@@ -130,7 +130,7 @@
         },
         {
           "date": "2026-11-04",
-          "count": 2
+          "count": 5
         }
       ],
       "repositories": [
@@ -142,7 +142,7 @@
         {
           "name": "LordCarvel.github.io",
           "url": "https://github.com/LordCarvel/LordCarvel.github.io",
-          "commits": 2
+          "commits": 5
         }
       ],
       "wakatime": {
@@ -155,8 +155,8 @@
       "label": "Semestre atual",
       "start": "2026-07-01",
       "end": "2026-11-04",
-      "contributions": 222,
-      "commits": 217,
+      "contributions": 225,
+      "commits": 220,
       "active_days": 22,
       "days": [
         {
@@ -665,7 +665,7 @@
         },
         {
           "date": "2026-11-04",
-          "count": 2
+          "count": 5
         }
       ],
       "repositories": [
@@ -687,7 +687,7 @@
         {
           "name": "LordCarvel.github.io",
           "url": "https://github.com/LordCarvel/LordCarvel.github.io",
-          "commits": 2
+          "commits": 5
         },
         {
           "name": "MeuCardapioPage",
@@ -705,8 +705,8 @@
       "label": "Ano atual",
       "start": "2026-01-01",
       "end": "2026-11-04",
-      "contributions": 274,
-      "commits": 267,
+      "contributions": 277,
+      "commits": 270,
       "active_days": 38,
       "days": [
         {
@@ -1939,7 +1939,7 @@
         },
         {
           "date": "2026-11-04",
-          "count": 2
+          "count": 5
         }
       ],
       "repositories": [
@@ -1976,7 +1976,7 @@
         {
           "name": "LordCarvel.github.io",
           "url": "https://github.com/LordCarvel/LordCarvel.github.io",
-          "commits": 2
+          "commits": 5
         },
         {
           "name": "MeuCardapioPage",
@@ -1994,27 +1994,27 @@
   "languages": [
     {
       "name": "JavaScript",
-      "percent": 67.58809562191455
+      "percent": 67.57888077794011
     },
     {
       "name": "Java",
-      "percent": 16.16216648627159
+      "percent": 16.15996296446661
     },
     {
       "name": "CSS",
-      "percent": 12.074127225192445
+      "percent": 12.072481059584671
     },
     {
       "name": "Python",
-      "percent": 2.0433529970025734
+      "percent": 2.043074409791633
     },
     {
       "name": "HTML",
-      "percent": 1.0381908293042408
+      "percent": 1.0380492841634918
     },
     {
       "name": "Outras",
-      "percent": 1.0940668403146026
+      "percent": 1.1075515040534882
     }
   ],
   "wakatime": {
@@ -2382,6 +2382,6 @@
         "minutes": 0
       }
     ],
-    "updated_at": "2026-11-04T08:10:53.813282-03:00"
+    "updated_at": "2026-11-04T18:22:15.404718-03:00"
   }
 }
