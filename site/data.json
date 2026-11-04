@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T18:06:20.330698-03:00",
+  "updated_at": "2026-11-03T22:28:35.519984-03:00",
   "profile": {
     "name": "Carvel",
     "role": "Desenvolvimento backend com Java",
@@ -69,7 +69,7 @@
       "label": "Mês atual",
       "start": "2026-11-01",
       "end": "2026-11-03",
-      "contributions": 31,
+      "contributions": 32,
       "commits": 31,
       "active_days": 3,
       "days": [
@@ -83,7 +83,7 @@
         },
         {
           "date": "2026-11-03",
-          "count": 3
+          "count": 4
         }
       ],
       "repositories": [
@@ -103,7 +103,7 @@
       "label": "Bimestre atual",
       "start": "2026-11-01",
       "end": "2026-11-03",
-      "contributions": 31,
+      "contributions": 32,
       "commits": 31,
       "active_days": 3,
       "days": [
@@ -117,7 +117,7 @@
         },
         {
           "date": "2026-11-03",
-          "count": 3
+          "count": 4
         }
       ],
       "repositories": [
@@ -539,7 +539,7 @@
         },
         {
           "date": "2026-10-08",
-          "count": 23
+          "count": 22
         },
         {
           "date": "2026-10-09",
@@ -643,7 +643,7 @@
         },
         {
           "date": "2026-11-03",
-          "count": 3
+          "count": 4
         }
       ],
       "repositories": [
@@ -678,9 +678,9 @@
       "label": "Ano atual",
       "start": "2026-01-01",
       "end": "2026-11-03",
-      "contributions": 282,
-      "commits": 274,
-      "active_days": 39,
+      "contributions": 272,
+      "commits": 265,
+      "active_days": 37,
       "days": [
         {
           "date": "2026-01-01",
@@ -1072,11 +1072,11 @@
         },
         {
           "date": "2026-04-08",
-          "count": 5
+          "count": 0
         },
         {
           "date": "2026-04-09",
-          "count": 5
+          "count": 0
         },
         {
           "date": "2026-04-10",
@@ -1804,7 +1804,7 @@
         },
         {
           "date": "2026-10-08",
-          "count": 23
+          "count": 22
         },
         {
           "date": "2026-10-09",
@@ -1908,7 +1908,7 @@
         },
         {
           "date": "2026-11-03",
-          "count": 3
+          "count": 4
         }
       ],
       "repositories": [
@@ -1938,11 +1938,6 @@
           "commits": 10
         },
         {
-          "name": "for-my-wife",
-          "url": "https://github.com/LordCarvel/for-my-wife",
-          "commits": 9
-        },
-        {
           "name": "LordCarvel",
           "url": "https://github.com/LordCarvel/LordCarvel",
           "commits": 6
@@ -1963,27 +1958,27 @@
   "languages": [
     {
       "name": "JavaScript",
-      "percent": 67.34958778547578
+      "percent": 67.61854209825503
     },
     {
       "name": "Java",
-      "percent": 15.558035558023892
+      "percent": 16.178020158147124
     },
     {
       "name": "CSS",
-      "percent": 13.083698333173876
+      "percent": 12.071957851698398
     },
     {
       "name": "Python",
-      "percent": 1.9669738343534662
+      "percent": 2.0453573475930638
     },
     {
       "name": "HTML",
-      "percent": 1.0175269928757942
+      "percent": 1.0211317801712503
     },
     {
       "name": "Outras",
-      "percent": 1.0241774960972048
+      "percent": 1.0649907641351197
     }
   ],
   "wakatime": {
@@ -2351,6 +2346,6 @@
         "minutes": 0
       }
     ],
-    "updated_at": "2026-11-03T18:06:20.330698-03:00"
+    "updated_at": "2026-11-03T22:28:35.519984-03:00"
   }
 }

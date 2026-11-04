@@ -26,16 +26,16 @@
 <a href="https://lordcarvel.github.io/LordCarvel/?period=ano#activity"><img src="./assets/filter-ano.svg" width="22%" alt="Filtrar: Ano" /></a></p>
 
 <details>
-<summary>Mês atual · 31 contribuições · 31 commits</summary>
+<summary>Mês atual · 32 contribuições · 31 commits</summary>
 
-<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=mes#activity"><img src="./assets/period-mes.svg" width="960" alt="Mês atual, 2026-11-01 a 2026-11-03: 31 contribuições, 31 commits e 3 dias ativos." /></a></p>
+<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=mes#activity"><img src="./assets/period-mes.svg" width="960" alt="Mês atual, 2026-11-01 a 2026-11-03: 32 contribuições, 31 commits e 3 dias ativos." /></a></p>
 
 </details>
 
 <details>
-<summary>Bimestre atual · 31 contribuições · 31 commits</summary>
+<summary>Bimestre atual · 32 contribuições · 31 commits</summary>
 
-<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=bimestre#activity"><img src="./assets/period-bimestre.svg" width="960" alt="Bimestre atual, 2026-11-01 a 2026-11-03: 31 contribuições, 31 commits e 3 dias ativos." /></a></p>
+<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=bimestre#activity"><img src="./assets/period-bimestre.svg" width="960" alt="Bimestre atual, 2026-11-01 a 2026-11-03: 32 contribuições, 31 commits e 3 dias ativos." /></a></p>
 
 </details>
 
@@ -47,9 +47,9 @@
 </details>
 
 <details>
-<summary>Ano atual · 282 contribuições · 274 commits</summary>
+<summary>Ano atual · 272 contribuições · 265 commits</summary>
 
-<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=ano#activity"><img src="./assets/period-ano.svg" width="960" alt="Ano atual, 2026-01-01 a 2026-11-03: 282 contribuições, 274 commits e 39 dias ativos." /></a></p>
+<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=ano#activity"><img src="./assets/period-ano.svg" width="960" alt="Ano atual, 2026-01-01 a 2026-11-03: 272 contribuições, 265 commits e 37 dias ativos." /></a></p>
 
 </details>
 
