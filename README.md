@@ -26,30 +26,30 @@
 <a href="https://lordcarvel.github.io/LordCarvel/?period=ano#activity"><img src="./assets/filter-ano.svg" width="22%" alt="Filtrar: Ano" /></a></p>
 
 <details>
-<summary>Mês atual · 37 contribuições · 36 commits</summary>
+<summary>Mês atual · 58 contribuições · 57 commits</summary>
 
-<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=mes#activity"><img src="./assets/period-mes.svg" width="960" alt="Mês atual, 2026-11-01 a 2026-11-07: 37 contribuições, 36 commits e 4 dias ativos." /></a></p>
-
-</details>
-
-<details>
-<summary>Bimestre atual · 37 contribuições · 36 commits</summary>
-
-<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=bimestre#activity"><img src="./assets/period-bimestre.svg" width="960" alt="Bimestre atual, 2026-11-01 a 2026-11-07: 37 contribuições, 36 commits e 4 dias ativos." /></a></p>
+<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=mes#activity"><img src="./assets/period-mes.svg" width="960" alt="Mês atual, 2026-11-01 a 2026-11-08: 58 contribuições, 57 commits e 5 dias ativos." /></a></p>
 
 </details>
 
 <details>
-<summary>Semestre atual · 225 contribuições · 220 commits</summary>
+<summary>Bimestre atual · 58 contribuições · 57 commits</summary>
 
-<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=semestre#activity"><img src="./assets/period-semestre.svg" width="960" alt="Semestre atual, 2026-07-01 a 2026-11-07: 225 contribuições, 220 commits e 22 dias ativos." /></a></p>
+<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=bimestre#activity"><img src="./assets/period-bimestre.svg" width="960" alt="Bimestre atual, 2026-11-01 a 2026-11-08: 58 contribuições, 57 commits e 5 dias ativos." /></a></p>
 
 </details>
 
 <details>
-<summary>Ano atual · 277 contribuições · 270 commits</summary>
+<summary>Semestre atual · 246 contribuições · 241 commits</summary>
 
-<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=ano#activity"><img src="./assets/period-ano.svg" width="960" alt="Ano atual, 2026-01-01 a 2026-11-07: 277 contribuições, 270 commits e 38 dias ativos." /></a></p>
+<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=semestre#activity"><img src="./assets/period-semestre.svg" width="960" alt="Semestre atual, 2026-07-01 a 2026-11-08: 246 contribuições, 241 commits e 23 dias ativos." /></a></p>
+
+</details>
+
+<details>
+<summary>Ano atual · 298 contribuições · 291 commits</summary>
+
+<p align="center"><a href="https://lordcarvel.github.io/LordCarvel/?period=ano#activity"><img src="./assets/period-ano.svg" width="960" alt="Ano atual, 2026-01-01 a 2026-11-08: 298 contribuições, 291 commits e 39 dias ativos." /></a></p>
 
 </details>
 

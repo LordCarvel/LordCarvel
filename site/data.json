@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T21:46:24.334538-03:00",
+  "updated_at": "2026-11-08T07:34:37.632841-03:00",
   "profile": {
     "name": "Carvel",
     "role": "Desenvolvimento backend com Java",
@@ -68,10 +68,10 @@
     "mes": {
       "label": "Mês atual",
       "start": "2026-11-01",
-      "end": "2026-11-07",
-      "contributions": 37,
-      "commits": 36,
-      "active_days": 4,
+      "end": "2026-11-08",
+      "contributions": 58,
+      "commits": 57,
+      "active_days": 5,
       "days": [
         {
           "date": "2026-11-01",
@@ -99,6 +99,10 @@
         },
         {
           "date": "2026-11-07",
+          "count": 21
+        },
+        {
+          "date": "2026-11-08",
           "count": 0
         }
       ],
@@ -111,7 +115,7 @@
         {
           "name": "LordCarvel.github.io",
           "url": "https://github.com/LordCarvel/LordCarvel.github.io",
-          "commits": 5
+          "commits": 26
         }
       ],
       "wakatime": {
@@ -123,10 +127,10 @@
     "bimestre": {
       "label": "Bimestre atual",
       "start": "2026-11-01",
-      "end": "2026-11-07",
-      "contributions": 37,
-      "commits": 36,
-      "active_days": 4,
+      "end": "2026-11-08",
+      "contributions": 58,
+      "commits": 57,
+      "active_days": 5,
       "days": [
         {
           "date": "2026-11-01",
@@ -154,6 +158,10 @@
         },
         {
           "date": "2026-11-07",
+          "count": 21
+        },
+        {
+          "date": "2026-11-08",
           "count": 0
         }
       ],
@@ -166,7 +174,7 @@
         {
           "name": "LordCarvel.github.io",
           "url": "https://github.com/LordCarvel/LordCarvel.github.io",
-          "commits": 5
+          "commits": 26
         }
       ],
       "wakatime": {
@@ -178,10 +186,10 @@
     "semestre": {
       "label": "Semestre atual",
       "start": "2026-07-01",
-      "end": "2026-11-07",
-      "contributions": 225,
-      "commits": 220,
-      "active_days": 22,
+      "end": "2026-11-08",
+      "contributions": 246,
+      "commits": 241,
+      "active_days": 23,
       "days": [
         {
           "date": "2026-07-01",
@@ -701,6 +709,10 @@
         },
         {
           "date": "2026-11-07",
+          "count": 21
+        },
+        {
+          "date": "2026-11-08",
           "count": 0
         }
       ],
@@ -711,6 +723,11 @@
           "commits": 183
         },
         {
+          "name": "LordCarvel.github.io",
+          "url": "https://github.com/LordCarvel/LordCarvel.github.io",
+          "commits": 26
+        },
+        {
           "name": "EasyPrintV2",
           "url": "https://github.com/LordCarvel/EasyPrintV2",
           "commits": 24
@@ -719,11 +736,6 @@
           "name": "LordCarvel",
           "url": "https://github.com/LordCarvel/LordCarvel",
           "commits": 6
-        },
-        {
-          "name": "LordCarvel.github.io",
-          "url": "https://github.com/LordCarvel/LordCarvel.github.io",
-          "commits": 5
         },
         {
           "name": "MeuCardapioPage",
@@ -740,10 +752,10 @@
     "ano": {
       "label": "Ano atual",
       "start": "2026-01-01",
-      "end": "2026-11-07",
-      "contributions": 277,
-      "commits": 270,
-      "active_days": 38,
+      "end": "2026-11-08",
+      "contributions": 298,
+      "commits": 291,
+      "active_days": 39,
       "days": [
         {
           "date": "2026-01-01",
@@ -1987,6 +1999,10 @@
         },
         {
           "date": "2026-11-07",
+          "count": 21
+        },
+        {
+          "date": "2026-11-08",
           "count": 0
         }
       ],
@@ -2000,6 +2016,11 @@
           "name": "EasyPrintV2",
           "url": "https://github.com/LordCarvel/EasyPrintV2",
           "commits": 38
+        },
+        {
+          "name": "LordCarvel.github.io",
+          "url": "https://github.com/LordCarvel/LordCarvel.github.io",
+          "commits": 26
         },
         {
           "name": "list_shop_tbt",
@@ -2022,11 +2043,6 @@
           "commits": 6
         },
         {
-          "name": "LordCarvel.github.io",
-          "url": "https://github.com/LordCarvel/LordCarvel.github.io",
-          "commits": 5
-        },
-        {
           "name": "MeuCardapioPage",
           "url": "https://github.com/LordCarvel/MeuCardapioPage",
           "commits": 2
@@ -2042,39 +2058,39 @@
   "languages": [
     {
       "name": "JavaScript",
-      "percent": 67.57888077794011
+      "percent": 60.805753559990706
     },
     {
       "name": "Java",
-      "percent": 16.15996296446661
+      "percent": 14.540322571851346
     },
     {
       "name": "CSS",
-      "percent": 12.072481059584671
+      "percent": 11.094500183737939
+    },
+    {
+      "name": "TypeScript",
+      "percent": 9.671594332802293
     },
     {
       "name": "Python",
-      "percent": 2.043074409791633
-    },
-    {
-      "name": "HTML",
-      "percent": 1.0380492841634918
+      "percent": 1.8383062524330283
     },
     {
       "name": "Outras",
-      "percent": 1.1075515040534882
+      "percent": 2.0495230991846833
     }
   ],
   "wakatime": {
-    "total_seconds": 919825.994,
+    "total_seconds": 927468.186,
     "range": "all_time",
     "languages": [
       {
         "name": "JavaScript",
-        "total_seconds": 347015.035,
-        "ai_coding_seconds": "221293.346000",
+        "total_seconds": 347026.06,
+        "ai_coding_seconds": "221304.371000",
         "manual_coding_seconds": "125721.689000",
-        "percent": 35.0,
+        "percent": 34.71,
         "digital": "96:23",
         "decimal": "96.38",
         "text": "96 hrs 23 mins",
@@ -2086,7 +2102,7 @@
         "total_seconds": 288421.827,
         "ai_coding_seconds": "101026.408000",
         "manual_coding_seconds": "187395.419000",
-        "percent": 29.09,
+        "percent": 28.85,
         "digital": "80:07",
         "decimal": "80.12",
         "text": "80 hrs 7 mins",
@@ -2095,70 +2111,70 @@
       },
       {
         "name": "CSS",
-        "total_seconds": 101725.938,
-        "ai_coding_seconds": "51565.653000",
-        "manual_coding_seconds": "50160.285000",
-        "percent": 10.26,
-        "digital": "28:15",
-        "decimal": "28.25",
-        "text": "28 hrs 15 mins",
+        "total_seconds": 103335.357,
+        "ai_coding_seconds": "51608.937000",
+        "manual_coding_seconds": "51726.420000",
+        "percent": 10.33,
+        "digital": "28:42",
+        "decimal": "28.70",
+        "text": "28 hrs 42 mins",
         "hours": 28,
-        "minutes": 15
+        "minutes": 42
       },
       {
         "name": "Other",
-        "total_seconds": 71560.214,
-        "ai_coding_seconds": "66731.856000",
+        "total_seconds": 72405.138,
+        "ai_coding_seconds": "67576.780000",
         "manual_coding_seconds": "0.000000",
-        "percent": 7.22,
-        "digital": "19:52",
-        "decimal": "19.87",
-        "text": "19 hrs 52 mins",
-        "hours": 19,
-        "minutes": 52
+        "percent": 7.24,
+        "digital": "20:06",
+        "decimal": "20.10",
+        "text": "20 hrs 6 mins",
+        "hours": 20,
+        "minutes": 6
       },
       {
         "name": "Markdown",
-        "total_seconds": 61169.316,
-        "ai_coding_seconds": "57375.386000",
+        "total_seconds": 62314.267,
+        "ai_coding_seconds": "58520.337000",
         "manual_coding_seconds": "3793.930000",
-        "percent": 6.17,
-        "digital": "16:59",
-        "decimal": "16.98",
-        "text": "16 hrs 59 mins",
-        "hours": 16,
-        "minutes": 59
+        "percent": 6.23,
+        "digital": "17:18",
+        "decimal": "17.30",
+        "text": "17 hrs 18 mins",
+        "hours": 17,
+        "minutes": 18
       },
       {
         "name": "JSON",
-        "total_seconds": 23047.846,
-        "ai_coding_seconds": "16299.907000",
+        "total_seconds": 23278.384,
+        "ai_coding_seconds": "16530.445000",
         "manual_coding_seconds": "6747.939000",
-        "percent": 2.32,
-        "digital": "6:24",
-        "decimal": "6.40",
-        "text": "6 hrs 24 mins",
+        "percent": 2.33,
+        "digital": "6:27",
+        "decimal": "6.45",
+        "text": "6 hrs 27 mins",
         "hours": 6,
-        "minutes": 24
+        "minutes": 27
       },
       {
         "name": "HTML",
-        "total_seconds": 21254.019,
-        "ai_coding_seconds": "5250.706000",
-        "manual_coding_seconds": "16003.313000",
+        "total_seconds": 21410.872,
+        "ai_coding_seconds": "5353.882000",
+        "manual_coding_seconds": "16056.990000",
         "percent": 2.14,
-        "digital": "5:54",
-        "decimal": "5.90",
-        "text": "5 hrs 54 mins",
+        "digital": "5:56",
+        "decimal": "5.93",
+        "text": "5 hrs 56 mins",
         "hours": 5,
-        "minutes": 54
+        "minutes": 56
       },
       {
         "name": "PowerShell",
         "total_seconds": 16773.988,
         "ai_coding_seconds": "16773.988000",
         "manual_coding_seconds": "0.000000",
-        "percent": 1.69,
+        "percent": 1.68,
         "digital": "4:39",
         "decimal": "4.65",
         "text": "4 hrs 39 mins",
@@ -2166,11 +2182,23 @@
         "minutes": 39
       },
       {
+        "name": "TypeScript",
+        "total_seconds": 9629.815,
+        "ai_coding_seconds": "5119.910000",
+        "manual_coding_seconds": "4509.905000",
+        "percent": 0.96,
+        "digital": "2:40",
+        "decimal": "2.67",
+        "text": "2 hrs 40 mins",
+        "hours": 2,
+        "minutes": 40
+      },
+      {
         "name": "SQL",
         "total_seconds": 9079.846,
         "ai_coding_seconds": "7760.775000",
         "manual_coding_seconds": "1319.071000",
-        "percent": 0.92,
+        "percent": 0.91,
         "digital": "2:31",
         "decimal": "2.52",
         "text": "2 hrs 31 mins",
@@ -2206,7 +2234,7 @@
         "total_seconds": 8047.981,
         "ai_coding_seconds": "0.000000",
         "manual_coding_seconds": "8047.981000",
-        "percent": 0.81,
+        "percent": 0.8,
         "digital": "2:14",
         "decimal": "2.23",
         "text": "2 hrs 14 mins",
@@ -2214,23 +2242,11 @@
         "minutes": 14
       },
       {
-        "name": "TypeScript",
-        "total_seconds": 5140.409,
-        "ai_coding_seconds": "1125.695000",
-        "manual_coding_seconds": "4014.714000",
-        "percent": 0.52,
-        "digital": "1:25",
-        "decimal": "1.42",
-        "text": "1 hr 25 mins",
-        "hours": 1,
-        "minutes": 25
-      },
-      {
         "name": "XML",
         "total_seconds": 4234.609,
         "ai_coding_seconds": "1835.755000",
         "manual_coding_seconds": "2398.854000",
-        "percent": 0.43,
+        "percent": 0.42,
         "digital": "1:10",
         "decimal": "1.17",
         "text": "1 hr 10 mins",
@@ -2242,7 +2258,7 @@
         "total_seconds": 3334.494,
         "ai_coding_seconds": "3323.440000",
         "manual_coding_seconds": "11.054000",
-        "percent": 0.34,
+        "percent": 0.33,
         "digital": "0:55",
         "decimal": "0.92",
         "text": "55 mins",
@@ -2254,7 +2270,7 @@
         "total_seconds": 3239.336,
         "ai_coding_seconds": "3239.336000",
         "manual_coding_seconds": "0.000000",
-        "percent": 0.33,
+        "percent": 0.32,
         "digital": "0:53",
         "decimal": "0.88",
         "text": "53 mins",
@@ -2442,6 +2458,6 @@
         "minutes": 0
       }
     ],
-    "updated_at": "2026-11-07T21:46:24.334538-03:00"
+    "updated_at": "2026-11-08T07:34:37.632841-03:00"
   }
 }
