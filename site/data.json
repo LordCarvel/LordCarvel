@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T22:19:28.963916-03:00",
+  "updated_at": "2026-11-11T08:12:13.179255-03:00",
   "profile": {
     "name": "Carvel",
     "role": "Desenvolvimento backend com Java",
@@ -68,7 +68,7 @@
     "mes": {
       "label": "Mês atual",
       "start": "2026-11-01",
-      "end": "2026-11-10",
+      "end": "2026-11-11",
       "contributions": 58,
       "commits": 57,
       "active_days": 5,
@@ -111,6 +111,10 @@
         },
         {
           "date": "2026-11-10",
+          "count": 0
+        },
+        {
+          "date": "2026-11-11",
           "count": 0
         }
       ],
@@ -135,7 +139,7 @@
     "bimestre": {
       "label": "Bimestre atual",
       "start": "2026-11-01",
-      "end": "2026-11-10",
+      "end": "2026-11-11",
       "contributions": 58,
       "commits": 57,
       "active_days": 5,
@@ -179,6 +183,10 @@
         {
           "date": "2026-11-10",
           "count": 0
+        },
+        {
+          "date": "2026-11-11",
+          "count": 0
         }
       ],
       "repositories": [
@@ -202,7 +210,7 @@
     "semestre": {
       "label": "Semestre atual",
       "start": "2026-07-01",
-      "end": "2026-11-10",
+      "end": "2026-11-11",
       "contributions": 246,
       "commits": 241,
       "active_days": 23,
@@ -738,6 +746,10 @@
         {
           "date": "2026-11-10",
           "count": 0
+        },
+        {
+          "date": "2026-11-11",
+          "count": 0
         }
       ],
       "repositories": [
@@ -776,7 +788,7 @@
     "ano": {
       "label": "Ano atual",
       "start": "2026-01-01",
-      "end": "2026-11-10",
+      "end": "2026-11-11",
       "contributions": 298,
       "commits": 291,
       "active_days": 39,
@@ -2036,6 +2048,10 @@
         {
           "date": "2026-11-10",
           "count": 0
+        },
+        {
+          "date": "2026-11-11",
+          "count": 0
         }
       ],
       "repositories": [
@@ -2114,7 +2130,7 @@
     }
   ],
   "wakatime": {
-    "total_seconds": 927468.186,
+    "total_seconds": 927580.549,
     "range": "all_time",
     "languages": [
       {
@@ -2122,7 +2138,7 @@
         "total_seconds": 347026.06,
         "ai_coding_seconds": "221304.371000",
         "manual_coding_seconds": "125721.689000",
-        "percent": 34.71,
+        "percent": 34.7,
         "digital": "96:23",
         "decimal": "96.38",
         "text": "96 hrs 23 mins",
@@ -2134,7 +2150,7 @@
         "total_seconds": 288421.827,
         "ai_coding_seconds": "101026.408000",
         "manual_coding_seconds": "187395.419000",
-        "percent": 28.85,
+        "percent": 28.84,
         "digital": "80:07",
         "decimal": "80.12",
         "text": "80 hrs 7 mins",
@@ -2167,15 +2183,15 @@
       },
       {
         "name": "Markdown",
-        "total_seconds": 62314.267,
-        "ai_coding_seconds": "58520.337000",
+        "total_seconds": 62426.63,
+        "ai_coding_seconds": "58632.700000",
         "manual_coding_seconds": "3793.930000",
-        "percent": 6.23,
-        "digital": "17:18",
-        "decimal": "17.30",
-        "text": "17 hrs 18 mins",
+        "percent": 6.24,
+        "digital": "17:20",
+        "decimal": "17.33",
+        "text": "17 hrs 20 mins",
         "hours": 17,
-        "minutes": 18
+        "minutes": 20
       },
       {
         "name": "JSON",
@@ -2490,6 +2506,6 @@
         "minutes": 0
       }
     ],
-    "updated_at": "2026-11-10T22:19:28.963916-03:00"
+    "updated_at": "2026-11-11T08:12:13.179255-03:00"
   }
 }
