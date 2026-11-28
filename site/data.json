@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T20:33:05.694338-03:00",
+  "updated_at": "2026-11-28T08:59:12.326376-03:00",
   "profile": {
     "name": "Carvel",
     "role": "Desenvolvimento backend com Java",
@@ -68,7 +68,7 @@
     "mes": {
       "label": "Mês atual",
       "start": "2026-11-01",
-      "end": "2026-11-27",
+      "end": "2026-11-28",
       "contributions": 58,
       "commits": 57,
       "active_days": 5,
@@ -179,6 +179,10 @@
         },
         {
           "date": "2026-11-27",
+          "count": 0
+        },
+        {
+          "date": "2026-11-28",
           "count": 0
         }
       ],
@@ -203,7 +207,7 @@
     "bimestre": {
       "label": "Bimestre atual",
       "start": "2026-11-01",
-      "end": "2026-11-27",
+      "end": "2026-11-28",
       "contributions": 58,
       "commits": 57,
       "active_days": 5,
@@ -315,6 +319,10 @@
         {
           "date": "2026-11-27",
           "count": 0
+        },
+        {
+          "date": "2026-11-28",
+          "count": 0
         }
       ],
       "repositories": [
@@ -338,7 +346,7 @@
     "semestre": {
       "label": "Semestre atual",
       "start": "2026-07-01",
-      "end": "2026-11-27",
+      "end": "2026-11-28",
       "contributions": 246,
       "commits": 241,
       "active_days": 23,
@@ -942,6 +950,10 @@
         {
           "date": "2026-11-27",
           "count": 0
+        },
+        {
+          "date": "2026-11-28",
+          "count": 0
         }
       ],
       "repositories": [
@@ -980,7 +992,7 @@
     "ano": {
       "label": "Ano atual",
       "start": "2026-01-01",
-      "end": "2026-11-27",
+      "end": "2026-11-28",
       "contributions": 298,
       "commits": 291,
       "active_days": 39,
@@ -2308,6 +2320,10 @@
         {
           "date": "2026-11-27",
           "count": 0
+        },
+        {
+          "date": "2026-11-28",
+          "count": 0
         }
       ],
       "repositories": [
@@ -2762,6 +2778,6 @@
         "minutes": 0
       }
     ],
-    "updated_at": "2026-11-27T20:33:05.694338-03:00"
+    "updated_at": "2026-11-28T08:59:12.326376-03:00"
   }
 }
